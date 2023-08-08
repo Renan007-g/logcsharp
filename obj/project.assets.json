@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\x\\Documents\\logcsharp\\firstcode\\firstcode.csproj",
-      "projectName": "firstcode",
-      "projectPath": "C:\\Users\\x\\Documents\\logcsharp\\firstcode\\firstcode.csproj",
+      "projectUniqueName": "C:\\Users\\x\\Documents\\logcsharp\\logcsharp.csproj",
+      "projectName": "logcsharp",
+      "projectPath": "C:\\Users\\x\\Documents\\logcsharp\\logcsharp.csproj",
       "packagesPath": "C:\\Users\\x\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\x\\Documents\\logcsharp\\firstcode\\obj\\",
+      "outputPath": "C:\\Users\\x\\Documents\\logcsharp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\x\\AppData\\Roaming\\NuGet\\NuGet.Config"
