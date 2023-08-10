@@ -1,0 +1,15 @@
+C:\Users\x\Documents\logcsharp\obtndd\bin\Debug\net7.0\obtndd.exe
+C:\Users\x\Documents\logcsharp\obtndd\bin\Debug\net7.0\obtndd.deps.json
+C:\Users\x\Documents\logcsharp\obtndd\bin\Debug\net7.0\obtndd.runtimeconfig.json
+C:\Users\x\Documents\logcsharp\obtndd\bin\Debug\net7.0\obtndd.dll
+C:\Users\x\Documents\logcsharp\obtndd\bin\Debug\net7.0\obtndd.pdb
+C:\Users\x\Documents\logcsharp\obtndd\obj\Debug\net7.0\obtndd.csproj.AssemblyReference.cache
+C:\Users\x\Documents\logcsharp\obtndd\obj\Debug\net7.0\obtndd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\x\Documents\logcsharp\obtndd\obj\Debug\net7.0\obtndd.AssemblyInfoInputs.cache
+C:\Users\x\Documents\logcsharp\obtndd\obj\Debug\net7.0\obtndd.AssemblyInfo.cs
+C:\Users\x\Documents\logcsharp\obtndd\obj\Debug\net7.0\obtndd.csproj.CoreCompileInputs.cache
+C:\Users\x\Documents\logcsharp\obtndd\obj\Debug\net7.0\obtndd.dll
+C:\Users\x\Documents\logcsharp\obtndd\obj\Debug\net7.0\refint\obtndd.dll
+C:\Users\x\Documents\logcsharp\obtndd\obj\Debug\net7.0\obtndd.pdb
+C:\Users\x\Documents\logcsharp\obtndd\obj\Debug\net7.0\obtndd.genruntimeconfig.cache
+C:\Users\x\Documents\logcsharp\obtndd\obj\Debug\net7.0\ref\obtndd.dll

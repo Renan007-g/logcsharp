@@ -1,0 +1,15 @@
+C:\Users\x\Documents\logcsharp\frstcli\bin\Debug\net7.0\logcsharp.exe
+C:\Users\x\Documents\logcsharp\frstcli\bin\Debug\net7.0\logcsharp.deps.json
+C:\Users\x\Documents\logcsharp\frstcli\bin\Debug\net7.0\logcsharp.runtimeconfig.json
+C:\Users\x\Documents\logcsharp\frstcli\bin\Debug\net7.0\logcsharp.dll
+C:\Users\x\Documents\logcsharp\frstcli\bin\Debug\net7.0\logcsharp.pdb
+C:\Users\x\Documents\logcsharp\frstcli\obj\Debug\net7.0\logcsharp.csproj.AssemblyReference.cache
+C:\Users\x\Documents\logcsharp\frstcli\obj\Debug\net7.0\logcsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\x\Documents\logcsharp\frstcli\obj\Debug\net7.0\logcsharp.AssemblyInfoInputs.cache
+C:\Users\x\Documents\logcsharp\frstcli\obj\Debug\net7.0\logcsharp.AssemblyInfo.cs
+C:\Users\x\Documents\logcsharp\frstcli\obj\Debug\net7.0\logcsharp.csproj.CoreCompileInputs.cache
+C:\Users\x\Documents\logcsharp\frstcli\obj\Debug\net7.0\logcsharp.dll
+C:\Users\x\Documents\logcsharp\frstcli\obj\Debug\net7.0\refint\logcsharp.dll
+C:\Users\x\Documents\logcsharp\frstcli\obj\Debug\net7.0\logcsharp.pdb
+C:\Users\x\Documents\logcsharp\frstcli\obj\Debug\net7.0\logcsharp.genruntimeconfig.cache
+C:\Users\x\Documents\logcsharp\frstcli\obj\Debug\net7.0\ref\logcsharp.dll

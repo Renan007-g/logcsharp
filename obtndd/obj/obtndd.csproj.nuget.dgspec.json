@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\x\\Documents\\logcsharp\\logcsharp.csproj": {}
+    "C:\\Users\\x\\Documents\\logcsharp\\obtndd\\obtndd.csproj": {}
   },
   "projects": {
-    "C:\\Users\\x\\Documents\\logcsharp\\logcsharp.csproj": {
+    "C:\\Users\\x\\Documents\\logcsharp\\obtndd\\obtndd.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\x\\Documents\\logcsharp\\logcsharp.csproj",
-        "projectName": "logcsharp",
-        "projectPath": "C:\\Users\\x\\Documents\\logcsharp\\logcsharp.csproj",
+        "projectUniqueName": "C:\\Users\\x\\Documents\\logcsharp\\obtndd\\obtndd.csproj",
+        "projectName": "obtndd",
+        "projectPath": "C:\\Users\\x\\Documents\\logcsharp\\obtndd\\obtndd.csproj",
         "packagesPath": "C:\\Users\\x\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\x\\Documents\\logcsharp\\obj\\",
+        "outputPath": "C:\\Users\\x\\Documents\\logcsharp\\obtndd\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\x\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.307\\RuntimeIdentifierGraph.json"
         }
       }
     }
