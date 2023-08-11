@@ -1,0 +1,15 @@
+C:\Users\x\Documents\logcsharp\declarvar\bin\Debug\net7.0\declarvar.exe
+C:\Users\x\Documents\logcsharp\declarvar\bin\Debug\net7.0\declarvar.deps.json
+C:\Users\x\Documents\logcsharp\declarvar\bin\Debug\net7.0\declarvar.runtimeconfig.json
+C:\Users\x\Documents\logcsharp\declarvar\bin\Debug\net7.0\declarvar.dll
+C:\Users\x\Documents\logcsharp\declarvar\bin\Debug\net7.0\declarvar.pdb
+C:\Users\x\Documents\logcsharp\declarvar\obj\Debug\net7.0\declarvar.csproj.AssemblyReference.cache
+C:\Users\x\Documents\logcsharp\declarvar\obj\Debug\net7.0\declarvar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\x\Documents\logcsharp\declarvar\obj\Debug\net7.0\declarvar.AssemblyInfoInputs.cache
+C:\Users\x\Documents\logcsharp\declarvar\obj\Debug\net7.0\declarvar.AssemblyInfo.cs
+C:\Users\x\Documents\logcsharp\declarvar\obj\Debug\net7.0\declarvar.csproj.CoreCompileInputs.cache
+C:\Users\x\Documents\logcsharp\declarvar\obj\Debug\net7.0\declarvar.dll
+C:\Users\x\Documents\logcsharp\declarvar\obj\Debug\net7.0\refint\declarvar.dll
+C:\Users\x\Documents\logcsharp\declarvar\obj\Debug\net7.0\declarvar.pdb
+C:\Users\x\Documents\logcsharp\declarvar\obj\Debug\net7.0\declarvar.genruntimeconfig.cache
+C:\Users\x\Documents\logcsharp\declarvar\obj\Debug\net7.0\ref\declarvar.dll
