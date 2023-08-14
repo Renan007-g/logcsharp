@@ -1,0 +1,15 @@
+C:\Users\x\Documents\logcsharp\tpboolkeyword\bin\Debug\net7.0\tpboolkeyword.exe
+C:\Users\x\Documents\logcsharp\tpboolkeyword\bin\Debug\net7.0\tpboolkeyword.deps.json
+C:\Users\x\Documents\logcsharp\tpboolkeyword\bin\Debug\net7.0\tpboolkeyword.runtimeconfig.json
+C:\Users\x\Documents\logcsharp\tpboolkeyword\bin\Debug\net7.0\tpboolkeyword.dll
+C:\Users\x\Documents\logcsharp\tpboolkeyword\bin\Debug\net7.0\tpboolkeyword.pdb
+C:\Users\x\Documents\logcsharp\tpboolkeyword\obj\Debug\net7.0\tpboolkeyword.csproj.AssemblyReference.cache
+C:\Users\x\Documents\logcsharp\tpboolkeyword\obj\Debug\net7.0\tpboolkeyword.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\x\Documents\logcsharp\tpboolkeyword\obj\Debug\net7.0\tpboolkeyword.AssemblyInfoInputs.cache
+C:\Users\x\Documents\logcsharp\tpboolkeyword\obj\Debug\net7.0\tpboolkeyword.AssemblyInfo.cs
+C:\Users\x\Documents\logcsharp\tpboolkeyword\obj\Debug\net7.0\tpboolkeyword.csproj.CoreCompileInputs.cache
+C:\Users\x\Documents\logcsharp\tpboolkeyword\obj\Debug\net7.0\tpboolkeyword.dll
+C:\Users\x\Documents\logcsharp\tpboolkeyword\obj\Debug\net7.0\refint\tpboolkeyword.dll
+C:\Users\x\Documents\logcsharp\tpboolkeyword\obj\Debug\net7.0\tpboolkeyword.pdb
+C:\Users\x\Documents\logcsharp\tpboolkeyword\obj\Debug\net7.0\tpboolkeyword.genruntimeconfig.cache
+C:\Users\x\Documents\logcsharp\tpboolkeyword\obj\Debug\net7.0\ref\tpboolkeyword.dll

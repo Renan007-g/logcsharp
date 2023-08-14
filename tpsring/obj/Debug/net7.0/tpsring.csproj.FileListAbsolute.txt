@@ -1,0 +1,15 @@
+C:\Users\x\Documents\logcsharp\tpsring\bin\Debug\net7.0\tpsring.exe
+C:\Users\x\Documents\logcsharp\tpsring\bin\Debug\net7.0\tpsring.deps.json
+C:\Users\x\Documents\logcsharp\tpsring\bin\Debug\net7.0\tpsring.runtimeconfig.json
+C:\Users\x\Documents\logcsharp\tpsring\bin\Debug\net7.0\tpsring.dll
+C:\Users\x\Documents\logcsharp\tpsring\bin\Debug\net7.0\tpsring.pdb
+C:\Users\x\Documents\logcsharp\tpsring\obj\Debug\net7.0\tpsring.csproj.AssemblyReference.cache
+C:\Users\x\Documents\logcsharp\tpsring\obj\Debug\net7.0\tpsring.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\x\Documents\logcsharp\tpsring\obj\Debug\net7.0\tpsring.AssemblyInfoInputs.cache
+C:\Users\x\Documents\logcsharp\tpsring\obj\Debug\net7.0\tpsring.AssemblyInfo.cs
+C:\Users\x\Documents\logcsharp\tpsring\obj\Debug\net7.0\tpsring.csproj.CoreCompileInputs.cache
+C:\Users\x\Documents\logcsharp\tpsring\obj\Debug\net7.0\tpsring.dll
+C:\Users\x\Documents\logcsharp\tpsring\obj\Debug\net7.0\refint\tpsring.dll
+C:\Users\x\Documents\logcsharp\tpsring\obj\Debug\net7.0\tpsring.pdb
+C:\Users\x\Documents\logcsharp\tpsring\obj\Debug\net7.0\tpsring.genruntimeconfig.cache
+C:\Users\x\Documents\logcsharp\tpsring\obj\Debug\net7.0\ref\tpsring.dll

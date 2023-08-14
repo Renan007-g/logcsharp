@@ -1,0 +1,15 @@
+C:\Users\x\Documents\logcsharp\tpBoolLamp\bin\Debug\net7.0\tpBoolLamp.exe
+C:\Users\x\Documents\logcsharp\tpBoolLamp\bin\Debug\net7.0\tpBoolLamp.deps.json
+C:\Users\x\Documents\logcsharp\tpBoolLamp\bin\Debug\net7.0\tpBoolLamp.runtimeconfig.json
+C:\Users\x\Documents\logcsharp\tpBoolLamp\bin\Debug\net7.0\tpBoolLamp.dll
+C:\Users\x\Documents\logcsharp\tpBoolLamp\bin\Debug\net7.0\tpBoolLamp.pdb
+C:\Users\x\Documents\logcsharp\tpBoolLamp\obj\Debug\net7.0\tpBoolLamp.csproj.AssemblyReference.cache
+C:\Users\x\Documents\logcsharp\tpBoolLamp\obj\Debug\net7.0\tpBoolLamp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\x\Documents\logcsharp\tpBoolLamp\obj\Debug\net7.0\tpBoolLamp.AssemblyInfoInputs.cache
+C:\Users\x\Documents\logcsharp\tpBoolLamp\obj\Debug\net7.0\tpBoolLamp.AssemblyInfo.cs
+C:\Users\x\Documents\logcsharp\tpBoolLamp\obj\Debug\net7.0\tpBoolLamp.csproj.CoreCompileInputs.cache
+C:\Users\x\Documents\logcsharp\tpBoolLamp\obj\Debug\net7.0\tpBoolLamp.dll
+C:\Users\x\Documents\logcsharp\tpBoolLamp\obj\Debug\net7.0\refint\tpBoolLamp.dll
+C:\Users\x\Documents\logcsharp\tpBoolLamp\obj\Debug\net7.0\tpBoolLamp.pdb
+C:\Users\x\Documents\logcsharp\tpBoolLamp\obj\Debug\net7.0\tpBoolLamp.genruntimeconfig.cache
+C:\Users\x\Documents\logcsharp\tpBoolLamp\obj\Debug\net7.0\ref\tpBoolLamp.dll
