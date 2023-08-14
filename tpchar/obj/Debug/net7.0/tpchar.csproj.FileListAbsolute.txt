@@ -1,0 +1,15 @@
+C:\Users\x\Documents\logcsharp\tpchar\bin\Debug\net7.0\tpchar.exe
+C:\Users\x\Documents\logcsharp\tpchar\bin\Debug\net7.0\tpchar.deps.json
+C:\Users\x\Documents\logcsharp\tpchar\bin\Debug\net7.0\tpchar.runtimeconfig.json
+C:\Users\x\Documents\logcsharp\tpchar\bin\Debug\net7.0\tpchar.dll
+C:\Users\x\Documents\logcsharp\tpchar\bin\Debug\net7.0\tpchar.pdb
+C:\Users\x\Documents\logcsharp\tpchar\obj\Debug\net7.0\tpchar.csproj.AssemblyReference.cache
+C:\Users\x\Documents\logcsharp\tpchar\obj\Debug\net7.0\tpchar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\x\Documents\logcsharp\tpchar\obj\Debug\net7.0\tpchar.AssemblyInfoInputs.cache
+C:\Users\x\Documents\logcsharp\tpchar\obj\Debug\net7.0\tpchar.AssemblyInfo.cs
+C:\Users\x\Documents\logcsharp\tpchar\obj\Debug\net7.0\tpchar.csproj.CoreCompileInputs.cache
+C:\Users\x\Documents\logcsharp\tpchar\obj\Debug\net7.0\tpchar.dll
+C:\Users\x\Documents\logcsharp\tpchar\obj\Debug\net7.0\refint\tpchar.dll
+C:\Users\x\Documents\logcsharp\tpchar\obj\Debug\net7.0\tpchar.pdb
+C:\Users\x\Documents\logcsharp\tpchar\obj\Debug\net7.0\tpchar.genruntimeconfig.cache
+C:\Users\x\Documents\logcsharp\tpchar\obj\Debug\net7.0\ref\tpchar.dll
