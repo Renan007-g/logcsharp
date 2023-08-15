@@ -1,0 +1,15 @@
+C:\Users\x\Documents\logcsharp\tpTipoFlu\bin\Debug\net7.0\tpTipoFlu.exe
+C:\Users\x\Documents\logcsharp\tpTipoFlu\bin\Debug\net7.0\tpTipoFlu.deps.json
+C:\Users\x\Documents\logcsharp\tpTipoFlu\bin\Debug\net7.0\tpTipoFlu.runtimeconfig.json
+C:\Users\x\Documents\logcsharp\tpTipoFlu\bin\Debug\net7.0\tpTipoFlu.dll
+C:\Users\x\Documents\logcsharp\tpTipoFlu\bin\Debug\net7.0\tpTipoFlu.pdb
+C:\Users\x\Documents\logcsharp\tpTipoFlu\obj\Debug\net7.0\tpTipoFlu.csproj.AssemblyReference.cache
+C:\Users\x\Documents\logcsharp\tpTipoFlu\obj\Debug\net7.0\tpTipoFlu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\x\Documents\logcsharp\tpTipoFlu\obj\Debug\net7.0\tpTipoFlu.AssemblyInfoInputs.cache
+C:\Users\x\Documents\logcsharp\tpTipoFlu\obj\Debug\net7.0\tpTipoFlu.AssemblyInfo.cs
+C:\Users\x\Documents\logcsharp\tpTipoFlu\obj\Debug\net7.0\tpTipoFlu.csproj.CoreCompileInputs.cache
+C:\Users\x\Documents\logcsharp\tpTipoFlu\obj\Debug\net7.0\tpTipoFlu.dll
+C:\Users\x\Documents\logcsharp\tpTipoFlu\obj\Debug\net7.0\refint\tpTipoFlu.dll
+C:\Users\x\Documents\logcsharp\tpTipoFlu\obj\Debug\net7.0\tpTipoFlu.pdb
+C:\Users\x\Documents\logcsharp\tpTipoFlu\obj\Debug\net7.0\tpTipoFlu.genruntimeconfig.cache
+C:\Users\x\Documents\logcsharp\tpTipoFlu\obj\Debug\net7.0\ref\tpTipoFlu.dll

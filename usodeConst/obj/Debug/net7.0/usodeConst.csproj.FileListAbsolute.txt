@@ -1,0 +1,15 @@
+C:\Users\x\Documents\logcsharp\usodeConst\bin\Debug\net7.0\usodeConst.exe
+C:\Users\x\Documents\logcsharp\usodeConst\bin\Debug\net7.0\usodeConst.deps.json
+C:\Users\x\Documents\logcsharp\usodeConst\bin\Debug\net7.0\usodeConst.runtimeconfig.json
+C:\Users\x\Documents\logcsharp\usodeConst\bin\Debug\net7.0\usodeConst.dll
+C:\Users\x\Documents\logcsharp\usodeConst\bin\Debug\net7.0\usodeConst.pdb
+C:\Users\x\Documents\logcsharp\usodeConst\obj\Debug\net7.0\usodeConst.csproj.AssemblyReference.cache
+C:\Users\x\Documents\logcsharp\usodeConst\obj\Debug\net7.0\usodeConst.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\x\Documents\logcsharp\usodeConst\obj\Debug\net7.0\usodeConst.AssemblyInfoInputs.cache
+C:\Users\x\Documents\logcsharp\usodeConst\obj\Debug\net7.0\usodeConst.AssemblyInfo.cs
+C:\Users\x\Documents\logcsharp\usodeConst\obj\Debug\net7.0\usodeConst.csproj.CoreCompileInputs.cache
+C:\Users\x\Documents\logcsharp\usodeConst\obj\Debug\net7.0\usodeConst.dll
+C:\Users\x\Documents\logcsharp\usodeConst\obj\Debug\net7.0\refint\usodeConst.dll
+C:\Users\x\Documents\logcsharp\usodeConst\obj\Debug\net7.0\usodeConst.pdb
+C:\Users\x\Documents\logcsharp\usodeConst\obj\Debug\net7.0\usodeConst.genruntimeconfig.cache
+C:\Users\x\Documents\logcsharp\usodeConst\obj\Debug\net7.0\ref\usodeConst.dll

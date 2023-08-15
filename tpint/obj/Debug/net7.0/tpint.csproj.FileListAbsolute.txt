@@ -1,0 +1,15 @@
+C:\Users\x\Documents\logcsharp\tpint\bin\Debug\net7.0\tpint.exe
+C:\Users\x\Documents\logcsharp\tpint\bin\Debug\net7.0\tpint.deps.json
+C:\Users\x\Documents\logcsharp\tpint\bin\Debug\net7.0\tpint.runtimeconfig.json
+C:\Users\x\Documents\logcsharp\tpint\bin\Debug\net7.0\tpint.dll
+C:\Users\x\Documents\logcsharp\tpint\bin\Debug\net7.0\tpint.pdb
+C:\Users\x\Documents\logcsharp\tpint\obj\Debug\net7.0\tpint.csproj.AssemblyReference.cache
+C:\Users\x\Documents\logcsharp\tpint\obj\Debug\net7.0\tpint.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\x\Documents\logcsharp\tpint\obj\Debug\net7.0\tpint.AssemblyInfoInputs.cache
+C:\Users\x\Documents\logcsharp\tpint\obj\Debug\net7.0\tpint.AssemblyInfo.cs
+C:\Users\x\Documents\logcsharp\tpint\obj\Debug\net7.0\tpint.csproj.CoreCompileInputs.cache
+C:\Users\x\Documents\logcsharp\tpint\obj\Debug\net7.0\tpint.dll
+C:\Users\x\Documents\logcsharp\tpint\obj\Debug\net7.0\refint\tpint.dll
+C:\Users\x\Documents\logcsharp\tpint\obj\Debug\net7.0\tpint.pdb
+C:\Users\x\Documents\logcsharp\tpint\obj\Debug\net7.0\tpint.genruntimeconfig.cache
+C:\Users\x\Documents\logcsharp\tpint\obj\Debug\net7.0\ref\tpint.dll

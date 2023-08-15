@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "tpTipoFlu/1.0.0": {
+        "runtime": {
+          "tpTipoFlu.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "tpTipoFlu/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
