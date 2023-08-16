@@ -1,0 +1,15 @@
+C:\Users\x\Documents\logcsharp\convertTpNumClssConvert\bin\Debug\net7.0\convertTpNumClssConvert.exe
+C:\Users\x\Documents\logcsharp\convertTpNumClssConvert\bin\Debug\net7.0\convertTpNumClssConvert.deps.json
+C:\Users\x\Documents\logcsharp\convertTpNumClssConvert\bin\Debug\net7.0\convertTpNumClssConvert.runtimeconfig.json
+C:\Users\x\Documents\logcsharp\convertTpNumClssConvert\bin\Debug\net7.0\convertTpNumClssConvert.dll
+C:\Users\x\Documents\logcsharp\convertTpNumClssConvert\bin\Debug\net7.0\convertTpNumClssConvert.pdb
+C:\Users\x\Documents\logcsharp\convertTpNumClssConvert\obj\Debug\net7.0\convertTpNumClssConvert.csproj.AssemblyReference.cache
+C:\Users\x\Documents\logcsharp\convertTpNumClssConvert\obj\Debug\net7.0\convertTpNumClssConvert.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\x\Documents\logcsharp\convertTpNumClssConvert\obj\Debug\net7.0\convertTpNumClssConvert.AssemblyInfoInputs.cache
+C:\Users\x\Documents\logcsharp\convertTpNumClssConvert\obj\Debug\net7.0\convertTpNumClssConvert.AssemblyInfo.cs
+C:\Users\x\Documents\logcsharp\convertTpNumClssConvert\obj\Debug\net7.0\convertTpNumClssConvert.csproj.CoreCompileInputs.cache
+C:\Users\x\Documents\logcsharp\convertTpNumClssConvert\obj\Debug\net7.0\convertTpNumClssConvert.dll
+C:\Users\x\Documents\logcsharp\convertTpNumClssConvert\obj\Debug\net7.0\refint\convertTpNumClssConvert.dll
+C:\Users\x\Documents\logcsharp\convertTpNumClssConvert\obj\Debug\net7.0\convertTpNumClssConvert.pdb
+C:\Users\x\Documents\logcsharp\convertTpNumClssConvert\obj\Debug\net7.0\convertTpNumClssConvert.genruntimeconfig.cache
+C:\Users\x\Documents\logcsharp\convertTpNumClssConvert\obj\Debug\net7.0\ref\convertTpNumClssConvert.dll

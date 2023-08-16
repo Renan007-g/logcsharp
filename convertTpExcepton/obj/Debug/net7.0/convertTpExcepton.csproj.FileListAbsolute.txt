@@ -1,0 +1,15 @@
+C:\Users\x\Documents\logcsharp\convertTpExcepton\bin\Debug\net7.0\convertTpExcepton.exe
+C:\Users\x\Documents\logcsharp\convertTpExcepton\bin\Debug\net7.0\convertTpExcepton.deps.json
+C:\Users\x\Documents\logcsharp\convertTpExcepton\bin\Debug\net7.0\convertTpExcepton.runtimeconfig.json
+C:\Users\x\Documents\logcsharp\convertTpExcepton\bin\Debug\net7.0\convertTpExcepton.dll
+C:\Users\x\Documents\logcsharp\convertTpExcepton\bin\Debug\net7.0\convertTpExcepton.pdb
+C:\Users\x\Documents\logcsharp\convertTpExcepton\obj\Debug\net7.0\convertTpExcepton.csproj.AssemblyReference.cache
+C:\Users\x\Documents\logcsharp\convertTpExcepton\obj\Debug\net7.0\convertTpExcepton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\x\Documents\logcsharp\convertTpExcepton\obj\Debug\net7.0\convertTpExcepton.AssemblyInfoInputs.cache
+C:\Users\x\Documents\logcsharp\convertTpExcepton\obj\Debug\net7.0\convertTpExcepton.AssemblyInfo.cs
+C:\Users\x\Documents\logcsharp\convertTpExcepton\obj\Debug\net7.0\convertTpExcepton.csproj.CoreCompileInputs.cache
+C:\Users\x\Documents\logcsharp\convertTpExcepton\obj\Debug\net7.0\convertTpExcepton.dll
+C:\Users\x\Documents\logcsharp\convertTpExcepton\obj\Debug\net7.0\refint\convertTpExcepton.dll
+C:\Users\x\Documents\logcsharp\convertTpExcepton\obj\Debug\net7.0\convertTpExcepton.pdb
+C:\Users\x\Documents\logcsharp\convertTpExcepton\obj\Debug\net7.0\convertTpExcepton.genruntimeconfig.cache
+C:\Users\x\Documents\logcsharp\convertTpExcepton\obj\Debug\net7.0\ref\convertTpExcepton.dll
