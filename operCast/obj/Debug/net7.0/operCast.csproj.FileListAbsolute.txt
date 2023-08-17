@@ -1,0 +1,15 @@
+C:\Users\x\Documents\logcsharp\operCast\bin\Debug\net7.0\operCast.exe
+C:\Users\x\Documents\logcsharp\operCast\bin\Debug\net7.0\operCast.deps.json
+C:\Users\x\Documents\logcsharp\operCast\bin\Debug\net7.0\operCast.runtimeconfig.json
+C:\Users\x\Documents\logcsharp\operCast\bin\Debug\net7.0\operCast.dll
+C:\Users\x\Documents\logcsharp\operCast\bin\Debug\net7.0\operCast.pdb
+C:\Users\x\Documents\logcsharp\operCast\obj\Debug\net7.0\operCast.csproj.AssemblyReference.cache
+C:\Users\x\Documents\logcsharp\operCast\obj\Debug\net7.0\operCast.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\x\Documents\logcsharp\operCast\obj\Debug\net7.0\operCast.AssemblyInfoInputs.cache
+C:\Users\x\Documents\logcsharp\operCast\obj\Debug\net7.0\operCast.AssemblyInfo.cs
+C:\Users\x\Documents\logcsharp\operCast\obj\Debug\net7.0\operCast.csproj.CoreCompileInputs.cache
+C:\Users\x\Documents\logcsharp\operCast\obj\Debug\net7.0\operCast.dll
+C:\Users\x\Documents\logcsharp\operCast\obj\Debug\net7.0\refint\operCast.dll
+C:\Users\x\Documents\logcsharp\operCast\obj\Debug\net7.0\operCast.pdb
+C:\Users\x\Documents\logcsharp\operCast\obj\Debug\net7.0\operCast.genruntimeconfig.cache
+C:\Users\x\Documents\logcsharp\operCast\obj\Debug\net7.0\ref\operCast.dll

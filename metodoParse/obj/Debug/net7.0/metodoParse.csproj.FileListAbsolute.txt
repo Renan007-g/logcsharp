@@ -1,0 +1,15 @@
+C:\Users\x\Documents\logcsharp\metodoParse\bin\Debug\net7.0\metodoParse.exe
+C:\Users\x\Documents\logcsharp\metodoParse\bin\Debug\net7.0\metodoParse.deps.json
+C:\Users\x\Documents\logcsharp\metodoParse\bin\Debug\net7.0\metodoParse.runtimeconfig.json
+C:\Users\x\Documents\logcsharp\metodoParse\bin\Debug\net7.0\metodoParse.dll
+C:\Users\x\Documents\logcsharp\metodoParse\bin\Debug\net7.0\metodoParse.pdb
+C:\Users\x\Documents\logcsharp\metodoParse\obj\Debug\net7.0\metodoParse.csproj.AssemblyReference.cache
+C:\Users\x\Documents\logcsharp\metodoParse\obj\Debug\net7.0\metodoParse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\x\Documents\logcsharp\metodoParse\obj\Debug\net7.0\metodoParse.AssemblyInfoInputs.cache
+C:\Users\x\Documents\logcsharp\metodoParse\obj\Debug\net7.0\metodoParse.AssemblyInfo.cs
+C:\Users\x\Documents\logcsharp\metodoParse\obj\Debug\net7.0\metodoParse.csproj.CoreCompileInputs.cache
+C:\Users\x\Documents\logcsharp\metodoParse\obj\Debug\net7.0\metodoParse.dll
+C:\Users\x\Documents\logcsharp\metodoParse\obj\Debug\net7.0\refint\metodoParse.dll
+C:\Users\x\Documents\logcsharp\metodoParse\obj\Debug\net7.0\metodoParse.pdb
+C:\Users\x\Documents\logcsharp\metodoParse\obj\Debug\net7.0\metodoParse.genruntimeconfig.cache
+C:\Users\x\Documents\logcsharp\metodoParse\obj\Debug\net7.0\ref\metodoParse.dll
