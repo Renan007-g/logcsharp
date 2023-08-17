@@ -1,0 +1,15 @@
+C:\Users\x\Documents\logcsharp\fatorial\bin\Debug\net7.0\fatorial.exe
+C:\Users\x\Documents\logcsharp\fatorial\bin\Debug\net7.0\fatorial.deps.json
+C:\Users\x\Documents\logcsharp\fatorial\bin\Debug\net7.0\fatorial.runtimeconfig.json
+C:\Users\x\Documents\logcsharp\fatorial\bin\Debug\net7.0\fatorial.dll
+C:\Users\x\Documents\logcsharp\fatorial\bin\Debug\net7.0\fatorial.pdb
+C:\Users\x\Documents\logcsharp\fatorial\obj\Debug\net7.0\fatorial.csproj.AssemblyReference.cache
+C:\Users\x\Documents\logcsharp\fatorial\obj\Debug\net7.0\fatorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\x\Documents\logcsharp\fatorial\obj\Debug\net7.0\fatorial.AssemblyInfoInputs.cache
+C:\Users\x\Documents\logcsharp\fatorial\obj\Debug\net7.0\fatorial.AssemblyInfo.cs
+C:\Users\x\Documents\logcsharp\fatorial\obj\Debug\net7.0\fatorial.csproj.CoreCompileInputs.cache
+C:\Users\x\Documents\logcsharp\fatorial\obj\Debug\net7.0\fatorial.dll
+C:\Users\x\Documents\logcsharp\fatorial\obj\Debug\net7.0\refint\fatorial.dll
+C:\Users\x\Documents\logcsharp\fatorial\obj\Debug\net7.0\fatorial.pdb
+C:\Users\x\Documents\logcsharp\fatorial\obj\Debug\net7.0\fatorial.genruntimeconfig.cache
+C:\Users\x\Documents\logcsharp\fatorial\obj\Debug\net7.0\ref\fatorial.dll
