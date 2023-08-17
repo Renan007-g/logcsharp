@@ -1,0 +1,15 @@
+C:\Users\x\Documents\logcsharp\ConvertTpBool\bin\Debug\net7.0\ConvertTpBool.exe
+C:\Users\x\Documents\logcsharp\ConvertTpBool\bin\Debug\net7.0\ConvertTpBool.deps.json
+C:\Users\x\Documents\logcsharp\ConvertTpBool\bin\Debug\net7.0\ConvertTpBool.runtimeconfig.json
+C:\Users\x\Documents\logcsharp\ConvertTpBool\bin\Debug\net7.0\ConvertTpBool.dll
+C:\Users\x\Documents\logcsharp\ConvertTpBool\bin\Debug\net7.0\ConvertTpBool.pdb
+C:\Users\x\Documents\logcsharp\ConvertTpBool\obj\Debug\net7.0\ConvertTpBool.csproj.AssemblyReference.cache
+C:\Users\x\Documents\logcsharp\ConvertTpBool\obj\Debug\net7.0\ConvertTpBool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\x\Documents\logcsharp\ConvertTpBool\obj\Debug\net7.0\ConvertTpBool.AssemblyInfoInputs.cache
+C:\Users\x\Documents\logcsharp\ConvertTpBool\obj\Debug\net7.0\ConvertTpBool.AssemblyInfo.cs
+C:\Users\x\Documents\logcsharp\ConvertTpBool\obj\Debug\net7.0\ConvertTpBool.csproj.CoreCompileInputs.cache
+C:\Users\x\Documents\logcsharp\ConvertTpBool\obj\Debug\net7.0\ConvertTpBool.dll
+C:\Users\x\Documents\logcsharp\ConvertTpBool\obj\Debug\net7.0\refint\ConvertTpBool.dll
+C:\Users\x\Documents\logcsharp\ConvertTpBool\obj\Debug\net7.0\ConvertTpBool.pdb
+C:\Users\x\Documents\logcsharp\ConvertTpBool\obj\Debug\net7.0\ConvertTpBool.genruntimeconfig.cache
+C:\Users\x\Documents\logcsharp\ConvertTpBool\obj\Debug\net7.0\ref\ConvertTpBool.dll

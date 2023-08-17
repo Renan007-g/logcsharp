@@ -1,0 +1,15 @@
+C:\Users\x\Documents\logcsharp\ConvertCarctertoClass\bin\Debug\net7.0\ConvertCarctertoClass.exe
+C:\Users\x\Documents\logcsharp\ConvertCarctertoClass\bin\Debug\net7.0\ConvertCarctertoClass.deps.json
+C:\Users\x\Documents\logcsharp\ConvertCarctertoClass\bin\Debug\net7.0\ConvertCarctertoClass.runtimeconfig.json
+C:\Users\x\Documents\logcsharp\ConvertCarctertoClass\bin\Debug\net7.0\ConvertCarctertoClass.dll
+C:\Users\x\Documents\logcsharp\ConvertCarctertoClass\bin\Debug\net7.0\ConvertCarctertoClass.pdb
+C:\Users\x\Documents\logcsharp\ConvertCarctertoClass\obj\Debug\net7.0\ConvertCarctertoClass.csproj.AssemblyReference.cache
+C:\Users\x\Documents\logcsharp\ConvertCarctertoClass\obj\Debug\net7.0\ConvertCarctertoClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\x\Documents\logcsharp\ConvertCarctertoClass\obj\Debug\net7.0\ConvertCarctertoClass.AssemblyInfoInputs.cache
+C:\Users\x\Documents\logcsharp\ConvertCarctertoClass\obj\Debug\net7.0\ConvertCarctertoClass.AssemblyInfo.cs
+C:\Users\x\Documents\logcsharp\ConvertCarctertoClass\obj\Debug\net7.0\ConvertCarctertoClass.csproj.CoreCompileInputs.cache
+C:\Users\x\Documents\logcsharp\ConvertCarctertoClass\obj\Debug\net7.0\ConvertCarctertoClass.dll
+C:\Users\x\Documents\logcsharp\ConvertCarctertoClass\obj\Debug\net7.0\refint\ConvertCarctertoClass.dll
+C:\Users\x\Documents\logcsharp\ConvertCarctertoClass\obj\Debug\net7.0\ConvertCarctertoClass.pdb
+C:\Users\x\Documents\logcsharp\ConvertCarctertoClass\obj\Debug\net7.0\ConvertCarctertoClass.genruntimeconfig.cache
+C:\Users\x\Documents\logcsharp\ConvertCarctertoClass\obj\Debug\net7.0\ref\ConvertCarctertoClass.dll
