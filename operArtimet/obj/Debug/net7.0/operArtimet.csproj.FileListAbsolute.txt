@@ -1,0 +1,15 @@
+C:\Users\x\Documents\logcsharp\operArtimet\bin\Debug\net7.0\operArtimet.exe
+C:\Users\x\Documents\logcsharp\operArtimet\bin\Debug\net7.0\operArtimet.deps.json
+C:\Users\x\Documents\logcsharp\operArtimet\bin\Debug\net7.0\operArtimet.runtimeconfig.json
+C:\Users\x\Documents\logcsharp\operArtimet\bin\Debug\net7.0\operArtimet.dll
+C:\Users\x\Documents\logcsharp\operArtimet\bin\Debug\net7.0\operArtimet.pdb
+C:\Users\x\Documents\logcsharp\operArtimet\obj\Debug\net7.0\operArtimet.csproj.AssemblyReference.cache
+C:\Users\x\Documents\logcsharp\operArtimet\obj\Debug\net7.0\operArtimet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\x\Documents\logcsharp\operArtimet\obj\Debug\net7.0\operArtimet.AssemblyInfoInputs.cache
+C:\Users\x\Documents\logcsharp\operArtimet\obj\Debug\net7.0\operArtimet.AssemblyInfo.cs
+C:\Users\x\Documents\logcsharp\operArtimet\obj\Debug\net7.0\operArtimet.csproj.CoreCompileInputs.cache
+C:\Users\x\Documents\logcsharp\operArtimet\obj\Debug\net7.0\operArtimet.dll
+C:\Users\x\Documents\logcsharp\operArtimet\obj\Debug\net7.0\refint\operArtimet.dll
+C:\Users\x\Documents\logcsharp\operArtimet\obj\Debug\net7.0\operArtimet.pdb
+C:\Users\x\Documents\logcsharp\operArtimet\obj\Debug\net7.0\operArtimet.genruntimeconfig.cache
+C:\Users\x\Documents\logcsharp\operArtimet\obj\Debug\net7.0\ref\operArtimet.dll
