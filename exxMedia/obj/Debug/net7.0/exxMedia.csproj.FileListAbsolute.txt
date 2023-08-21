@@ -1,0 +1,15 @@
+C:\Users\x\Documents\logcsharp\exxMedia\bin\Debug\net7.0\exxMedia.exe
+C:\Users\x\Documents\logcsharp\exxMedia\bin\Debug\net7.0\exxMedia.deps.json
+C:\Users\x\Documents\logcsharp\exxMedia\bin\Debug\net7.0\exxMedia.runtimeconfig.json
+C:\Users\x\Documents\logcsharp\exxMedia\bin\Debug\net7.0\exxMedia.dll
+C:\Users\x\Documents\logcsharp\exxMedia\bin\Debug\net7.0\exxMedia.pdb
+C:\Users\x\Documents\logcsharp\exxMedia\obj\Debug\net7.0\exxMedia.csproj.AssemblyReference.cache
+C:\Users\x\Documents\logcsharp\exxMedia\obj\Debug\net7.0\exxMedia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\x\Documents\logcsharp\exxMedia\obj\Debug\net7.0\exxMedia.AssemblyInfoInputs.cache
+C:\Users\x\Documents\logcsharp\exxMedia\obj\Debug\net7.0\exxMedia.AssemblyInfo.cs
+C:\Users\x\Documents\logcsharp\exxMedia\obj\Debug\net7.0\exxMedia.csproj.CoreCompileInputs.cache
+C:\Users\x\Documents\logcsharp\exxMedia\obj\Debug\net7.0\exxMedia.dll
+C:\Users\x\Documents\logcsharp\exxMedia\obj\Debug\net7.0\refint\exxMedia.dll
+C:\Users\x\Documents\logcsharp\exxMedia\obj\Debug\net7.0\exxMedia.pdb
+C:\Users\x\Documents\logcsharp\exxMedia\obj\Debug\net7.0\exxMedia.genruntimeconfig.cache
+C:\Users\x\Documents\logcsharp\exxMedia\obj\Debug\net7.0\ref\exxMedia.dll

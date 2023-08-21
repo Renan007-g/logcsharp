@@ -1,0 +1,15 @@
+C:\Users\x\Documents\logcsharp\exxDivsao\bin\Debug\net7.0\exxDivsao.exe
+C:\Users\x\Documents\logcsharp\exxDivsao\bin\Debug\net7.0\exxDivsao.deps.json
+C:\Users\x\Documents\logcsharp\exxDivsao\bin\Debug\net7.0\exxDivsao.runtimeconfig.json
+C:\Users\x\Documents\logcsharp\exxDivsao\bin\Debug\net7.0\exxDivsao.dll
+C:\Users\x\Documents\logcsharp\exxDivsao\bin\Debug\net7.0\exxDivsao.pdb
+C:\Users\x\Documents\logcsharp\exxDivsao\obj\Debug\net7.0\exxDivsao.csproj.AssemblyReference.cache
+C:\Users\x\Documents\logcsharp\exxDivsao\obj\Debug\net7.0\exxDivsao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\x\Documents\logcsharp\exxDivsao\obj\Debug\net7.0\exxDivsao.AssemblyInfoInputs.cache
+C:\Users\x\Documents\logcsharp\exxDivsao\obj\Debug\net7.0\exxDivsao.AssemblyInfo.cs
+C:\Users\x\Documents\logcsharp\exxDivsao\obj\Debug\net7.0\exxDivsao.csproj.CoreCompileInputs.cache
+C:\Users\x\Documents\logcsharp\exxDivsao\obj\Debug\net7.0\exxDivsao.dll
+C:\Users\x\Documents\logcsharp\exxDivsao\obj\Debug\net7.0\refint\exxDivsao.dll
+C:\Users\x\Documents\logcsharp\exxDivsao\obj\Debug\net7.0\exxDivsao.pdb
+C:\Users\x\Documents\logcsharp\exxDivsao\obj\Debug\net7.0\exxDivsao.genruntimeconfig.cache
+C:\Users\x\Documents\logcsharp\exxDivsao\obj\Debug\net7.0\ref\exxDivsao.dll
