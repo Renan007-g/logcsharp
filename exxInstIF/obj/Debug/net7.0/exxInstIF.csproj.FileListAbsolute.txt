@@ -1,0 +1,15 @@
+C:\Users\x\Documents\logcsharp\exxInstIF\bin\Debug\net7.0\exxInstIF.exe
+C:\Users\x\Documents\logcsharp\exxInstIF\bin\Debug\net7.0\exxInstIF.deps.json
+C:\Users\x\Documents\logcsharp\exxInstIF\bin\Debug\net7.0\exxInstIF.runtimeconfig.json
+C:\Users\x\Documents\logcsharp\exxInstIF\bin\Debug\net7.0\exxInstIF.dll
+C:\Users\x\Documents\logcsharp\exxInstIF\bin\Debug\net7.0\exxInstIF.pdb
+C:\Users\x\Documents\logcsharp\exxInstIF\obj\Debug\net7.0\exxInstIF.csproj.AssemblyReference.cache
+C:\Users\x\Documents\logcsharp\exxInstIF\obj\Debug\net7.0\exxInstIF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\x\Documents\logcsharp\exxInstIF\obj\Debug\net7.0\exxInstIF.AssemblyInfoInputs.cache
+C:\Users\x\Documents\logcsharp\exxInstIF\obj\Debug\net7.0\exxInstIF.AssemblyInfo.cs
+C:\Users\x\Documents\logcsharp\exxInstIF\obj\Debug\net7.0\exxInstIF.csproj.CoreCompileInputs.cache
+C:\Users\x\Documents\logcsharp\exxInstIF\obj\Debug\net7.0\exxInstIF.dll
+C:\Users\x\Documents\logcsharp\exxInstIF\obj\Debug\net7.0\refint\exxInstIF.dll
+C:\Users\x\Documents\logcsharp\exxInstIF\obj\Debug\net7.0\exxInstIF.pdb
+C:\Users\x\Documents\logcsharp\exxInstIF\obj\Debug\net7.0\exxInstIF.genruntimeconfig.cache
+C:\Users\x\Documents\logcsharp\exxInstIF\obj\Debug\net7.0\ref\exxInstIF.dll

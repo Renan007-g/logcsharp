@@ -1,0 +1,15 @@
+C:\Users\x\Documents\logcsharp\exxSinInv\bin\Debug\net7.0\exxSinInv.exe
+C:\Users\x\Documents\logcsharp\exxSinInv\bin\Debug\net7.0\exxSinInv.deps.json
+C:\Users\x\Documents\logcsharp\exxSinInv\bin\Debug\net7.0\exxSinInv.runtimeconfig.json
+C:\Users\x\Documents\logcsharp\exxSinInv\bin\Debug\net7.0\exxSinInv.dll
+C:\Users\x\Documents\logcsharp\exxSinInv\bin\Debug\net7.0\exxSinInv.pdb
+C:\Users\x\Documents\logcsharp\exxSinInv\obj\Debug\net7.0\exxSinInv.csproj.AssemblyReference.cache
+C:\Users\x\Documents\logcsharp\exxSinInv\obj\Debug\net7.0\exxSinInv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\x\Documents\logcsharp\exxSinInv\obj\Debug\net7.0\exxSinInv.AssemblyInfoInputs.cache
+C:\Users\x\Documents\logcsharp\exxSinInv\obj\Debug\net7.0\exxSinInv.AssemblyInfo.cs
+C:\Users\x\Documents\logcsharp\exxSinInv\obj\Debug\net7.0\exxSinInv.csproj.CoreCompileInputs.cache
+C:\Users\x\Documents\logcsharp\exxSinInv\obj\Debug\net7.0\exxSinInv.dll
+C:\Users\x\Documents\logcsharp\exxSinInv\obj\Debug\net7.0\refint\exxSinInv.dll
+C:\Users\x\Documents\logcsharp\exxSinInv\obj\Debug\net7.0\exxSinInv.pdb
+C:\Users\x\Documents\logcsharp\exxSinInv\obj\Debug\net7.0\exxSinInv.genruntimeconfig.cache
+C:\Users\x\Documents\logcsharp\exxSinInv\obj\Debug\net7.0\ref\exxSinInv.dll

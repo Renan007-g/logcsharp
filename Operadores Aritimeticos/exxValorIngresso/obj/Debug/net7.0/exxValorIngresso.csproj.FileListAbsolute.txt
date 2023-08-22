@@ -1,0 +1,15 @@
+C:\Users\x\Documents\logcsharp\exxValorIngresso\bin\Debug\net7.0\exxValorIngresso.exe
+C:\Users\x\Documents\logcsharp\exxValorIngresso\bin\Debug\net7.0\exxValorIngresso.deps.json
+C:\Users\x\Documents\logcsharp\exxValorIngresso\bin\Debug\net7.0\exxValorIngresso.runtimeconfig.json
+C:\Users\x\Documents\logcsharp\exxValorIngresso\bin\Debug\net7.0\exxValorIngresso.dll
+C:\Users\x\Documents\logcsharp\exxValorIngresso\bin\Debug\net7.0\exxValorIngresso.pdb
+C:\Users\x\Documents\logcsharp\exxValorIngresso\obj\Debug\net7.0\exxValorIngresso.csproj.AssemblyReference.cache
+C:\Users\x\Documents\logcsharp\exxValorIngresso\obj\Debug\net7.0\exxValorIngresso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\x\Documents\logcsharp\exxValorIngresso\obj\Debug\net7.0\exxValorIngresso.AssemblyInfoInputs.cache
+C:\Users\x\Documents\logcsharp\exxValorIngresso\obj\Debug\net7.0\exxValorIngresso.AssemblyInfo.cs
+C:\Users\x\Documents\logcsharp\exxValorIngresso\obj\Debug\net7.0\exxValorIngresso.csproj.CoreCompileInputs.cache
+C:\Users\x\Documents\logcsharp\exxValorIngresso\obj\Debug\net7.0\exxValorIngresso.dll
+C:\Users\x\Documents\logcsharp\exxValorIngresso\obj\Debug\net7.0\refint\exxValorIngresso.dll
+C:\Users\x\Documents\logcsharp\exxValorIngresso\obj\Debug\net7.0\exxValorIngresso.pdb
+C:\Users\x\Documents\logcsharp\exxValorIngresso\obj\Debug\net7.0\exxValorIngresso.genruntimeconfig.cache
+C:\Users\x\Documents\logcsharp\exxValorIngresso\obj\Debug\net7.0\ref\exxValorIngresso.dll
