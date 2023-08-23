@@ -1,0 +1,15 @@
+C:\Users\x\Documents\logcsharp\exxinstIfElse\bin\Debug\net7.0\exxinstIfElse.exe
+C:\Users\x\Documents\logcsharp\exxinstIfElse\bin\Debug\net7.0\exxinstIfElse.deps.json
+C:\Users\x\Documents\logcsharp\exxinstIfElse\bin\Debug\net7.0\exxinstIfElse.runtimeconfig.json
+C:\Users\x\Documents\logcsharp\exxinstIfElse\bin\Debug\net7.0\exxinstIfElse.dll
+C:\Users\x\Documents\logcsharp\exxinstIfElse\bin\Debug\net7.0\exxinstIfElse.pdb
+C:\Users\x\Documents\logcsharp\exxinstIfElse\obj\Debug\net7.0\exxinstIfElse.csproj.AssemblyReference.cache
+C:\Users\x\Documents\logcsharp\exxinstIfElse\obj\Debug\net7.0\exxinstIfElse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\x\Documents\logcsharp\exxinstIfElse\obj\Debug\net7.0\exxinstIfElse.AssemblyInfoInputs.cache
+C:\Users\x\Documents\logcsharp\exxinstIfElse\obj\Debug\net7.0\exxinstIfElse.AssemblyInfo.cs
+C:\Users\x\Documents\logcsharp\exxinstIfElse\obj\Debug\net7.0\exxinstIfElse.csproj.CoreCompileInputs.cache
+C:\Users\x\Documents\logcsharp\exxinstIfElse\obj\Debug\net7.0\exxinstIfElse.dll
+C:\Users\x\Documents\logcsharp\exxinstIfElse\obj\Debug\net7.0\refint\exxinstIfElse.dll
+C:\Users\x\Documents\logcsharp\exxinstIfElse\obj\Debug\net7.0\exxinstIfElse.pdb
+C:\Users\x\Documents\logcsharp\exxinstIfElse\obj\Debug\net7.0\exxinstIfElse.genruntimeconfig.cache
+C:\Users\x\Documents\logcsharp\exxinstIfElse\obj\Debug\net7.0\ref\exxinstIfElse.dll

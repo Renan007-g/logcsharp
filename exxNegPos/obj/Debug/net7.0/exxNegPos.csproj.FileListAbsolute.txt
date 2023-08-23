@@ -1,0 +1,15 @@
+C:\Users\x\Documents\logcsharp\exxNegPos\obj\Debug\net7.0\exxNegPos.csproj.AssemblyReference.cache
+C:\Users\x\Documents\logcsharp\exxNegPos\obj\Debug\net7.0\exxNegPos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\x\Documents\logcsharp\exxNegPos\obj\Debug\net7.0\exxNegPos.AssemblyInfoInputs.cache
+C:\Users\x\Documents\logcsharp\exxNegPos\obj\Debug\net7.0\exxNegPos.AssemblyInfo.cs
+C:\Users\x\Documents\logcsharp\exxNegPos\obj\Debug\net7.0\exxNegPos.csproj.CoreCompileInputs.cache
+C:\Users\x\Documents\logcsharp\exxNegPos\bin\Debug\net7.0\exxNegPos.exe
+C:\Users\x\Documents\logcsharp\exxNegPos\bin\Debug\net7.0\exxNegPos.deps.json
+C:\Users\x\Documents\logcsharp\exxNegPos\bin\Debug\net7.0\exxNegPos.runtimeconfig.json
+C:\Users\x\Documents\logcsharp\exxNegPos\bin\Debug\net7.0\exxNegPos.dll
+C:\Users\x\Documents\logcsharp\exxNegPos\bin\Debug\net7.0\exxNegPos.pdb
+C:\Users\x\Documents\logcsharp\exxNegPos\obj\Debug\net7.0\exxNegPos.dll
+C:\Users\x\Documents\logcsharp\exxNegPos\obj\Debug\net7.0\refint\exxNegPos.dll
+C:\Users\x\Documents\logcsharp\exxNegPos\obj\Debug\net7.0\exxNegPos.pdb
+C:\Users\x\Documents\logcsharp\exxNegPos\obj\Debug\net7.0\exxNegPos.genruntimeconfig.cache
+C:\Users\x\Documents\logcsharp\exxNegPos\obj\Debug\net7.0\ref\exxNegPos.dll
