@@ -1,0 +1,15 @@
+C:\Users\x\Documents\logcsharp\instwhile\bin\Debug\net7.0\instwhile.exe
+C:\Users\x\Documents\logcsharp\instwhile\bin\Debug\net7.0\instwhile.deps.json
+C:\Users\x\Documents\logcsharp\instwhile\bin\Debug\net7.0\instwhile.runtimeconfig.json
+C:\Users\x\Documents\logcsharp\instwhile\bin\Debug\net7.0\instwhile.dll
+C:\Users\x\Documents\logcsharp\instwhile\bin\Debug\net7.0\instwhile.pdb
+C:\Users\x\Documents\logcsharp\instwhile\obj\Debug\net7.0\instwhile.csproj.AssemblyReference.cache
+C:\Users\x\Documents\logcsharp\instwhile\obj\Debug\net7.0\instwhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\x\Documents\logcsharp\instwhile\obj\Debug\net7.0\instwhile.AssemblyInfoInputs.cache
+C:\Users\x\Documents\logcsharp\instwhile\obj\Debug\net7.0\instwhile.AssemblyInfo.cs
+C:\Users\x\Documents\logcsharp\instwhile\obj\Debug\net7.0\instwhile.csproj.CoreCompileInputs.cache
+C:\Users\x\Documents\logcsharp\instwhile\obj\Debug\net7.0\instwhile.dll
+C:\Users\x\Documents\logcsharp\instwhile\obj\Debug\net7.0\refint\instwhile.dll
+C:\Users\x\Documents\logcsharp\instwhile\obj\Debug\net7.0\instwhile.pdb
+C:\Users\x\Documents\logcsharp\instwhile\obj\Debug\net7.0\instwhile.genruntimeconfig.cache
+C:\Users\x\Documents\logcsharp\instwhile\obj\Debug\net7.0\ref\instwhile.dll
