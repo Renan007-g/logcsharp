@@ -1,0 +1,15 @@
+C:\Users\x\Documents\logcsharp\exxWhleNumPar\bin\Debug\net7.0\exxWhleNumPar.exe
+C:\Users\x\Documents\logcsharp\exxWhleNumPar\bin\Debug\net7.0\exxWhleNumPar.deps.json
+C:\Users\x\Documents\logcsharp\exxWhleNumPar\bin\Debug\net7.0\exxWhleNumPar.runtimeconfig.json
+C:\Users\x\Documents\logcsharp\exxWhleNumPar\bin\Debug\net7.0\exxWhleNumPar.dll
+C:\Users\x\Documents\logcsharp\exxWhleNumPar\bin\Debug\net7.0\exxWhleNumPar.pdb
+C:\Users\x\Documents\logcsharp\exxWhleNumPar\obj\Debug\net7.0\exxWhleNumPar.csproj.AssemblyReference.cache
+C:\Users\x\Documents\logcsharp\exxWhleNumPar\obj\Debug\net7.0\exxWhleNumPar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\x\Documents\logcsharp\exxWhleNumPar\obj\Debug\net7.0\exxWhleNumPar.AssemblyInfoInputs.cache
+C:\Users\x\Documents\logcsharp\exxWhleNumPar\obj\Debug\net7.0\exxWhleNumPar.AssemblyInfo.cs
+C:\Users\x\Documents\logcsharp\exxWhleNumPar\obj\Debug\net7.0\exxWhleNumPar.csproj.CoreCompileInputs.cache
+C:\Users\x\Documents\logcsharp\exxWhleNumPar\obj\Debug\net7.0\exxWhleNumPar.dll
+C:\Users\x\Documents\logcsharp\exxWhleNumPar\obj\Debug\net7.0\refint\exxWhleNumPar.dll
+C:\Users\x\Documents\logcsharp\exxWhleNumPar\obj\Debug\net7.0\exxWhleNumPar.pdb
+C:\Users\x\Documents\logcsharp\exxWhleNumPar\obj\Debug\net7.0\exxWhleNumPar.genruntimeconfig.cache
+C:\Users\x\Documents\logcsharp\exxWhleNumPar\obj\Debug\net7.0\ref\exxWhleNumPar.dll

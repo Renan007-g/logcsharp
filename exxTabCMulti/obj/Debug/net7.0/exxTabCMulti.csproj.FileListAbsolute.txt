@@ -1,0 +1,15 @@
+C:\Users\x\Documents\logcsharp\exxTabCMulti\bin\Debug\net7.0\exxTabCMulti.exe
+C:\Users\x\Documents\logcsharp\exxTabCMulti\bin\Debug\net7.0\exxTabCMulti.deps.json
+C:\Users\x\Documents\logcsharp\exxTabCMulti\bin\Debug\net7.0\exxTabCMulti.runtimeconfig.json
+C:\Users\x\Documents\logcsharp\exxTabCMulti\bin\Debug\net7.0\exxTabCMulti.dll
+C:\Users\x\Documents\logcsharp\exxTabCMulti\bin\Debug\net7.0\exxTabCMulti.pdb
+C:\Users\x\Documents\logcsharp\exxTabCMulti\obj\Debug\net7.0\exxTabCMulti.csproj.AssemblyReference.cache
+C:\Users\x\Documents\logcsharp\exxTabCMulti\obj\Debug\net7.0\exxTabCMulti.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\x\Documents\logcsharp\exxTabCMulti\obj\Debug\net7.0\exxTabCMulti.AssemblyInfoInputs.cache
+C:\Users\x\Documents\logcsharp\exxTabCMulti\obj\Debug\net7.0\exxTabCMulti.AssemblyInfo.cs
+C:\Users\x\Documents\logcsharp\exxTabCMulti\obj\Debug\net7.0\exxTabCMulti.csproj.CoreCompileInputs.cache
+C:\Users\x\Documents\logcsharp\exxTabCMulti\obj\Debug\net7.0\exxTabCMulti.dll
+C:\Users\x\Documents\logcsharp\exxTabCMulti\obj\Debug\net7.0\refint\exxTabCMulti.dll
+C:\Users\x\Documents\logcsharp\exxTabCMulti\obj\Debug\net7.0\exxTabCMulti.pdb
+C:\Users\x\Documents\logcsharp\exxTabCMulti\obj\Debug\net7.0\exxTabCMulti.genruntimeconfig.cache
+C:\Users\x\Documents\logcsharp\exxTabCMulti\obj\Debug\net7.0\ref\exxTabCMulti.dll
