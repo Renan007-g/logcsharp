@@ -1,0 +1,15 @@
+C:\Users\x\Documents\logcsharp\exxIfAnh\bin\Debug\net7.0\exxIfAnh.exe
+C:\Users\x\Documents\logcsharp\exxIfAnh\bin\Debug\net7.0\exxIfAnh.deps.json
+C:\Users\x\Documents\logcsharp\exxIfAnh\bin\Debug\net7.0\exxIfAnh.runtimeconfig.json
+C:\Users\x\Documents\logcsharp\exxIfAnh\bin\Debug\net7.0\exxIfAnh.dll
+C:\Users\x\Documents\logcsharp\exxIfAnh\bin\Debug\net7.0\exxIfAnh.pdb
+C:\Users\x\Documents\logcsharp\exxIfAnh\obj\Debug\net7.0\exxIfAnh.csproj.AssemblyReference.cache
+C:\Users\x\Documents\logcsharp\exxIfAnh\obj\Debug\net7.0\exxIfAnh.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\x\Documents\logcsharp\exxIfAnh\obj\Debug\net7.0\exxIfAnh.AssemblyInfoInputs.cache
+C:\Users\x\Documents\logcsharp\exxIfAnh\obj\Debug\net7.0\exxIfAnh.AssemblyInfo.cs
+C:\Users\x\Documents\logcsharp\exxIfAnh\obj\Debug\net7.0\exxIfAnh.csproj.CoreCompileInputs.cache
+C:\Users\x\Documents\logcsharp\exxIfAnh\obj\Debug\net7.0\exxIfAnh.dll
+C:\Users\x\Documents\logcsharp\exxIfAnh\obj\Debug\net7.0\refint\exxIfAnh.dll
+C:\Users\x\Documents\logcsharp\exxIfAnh\obj\Debug\net7.0\exxIfAnh.pdb
+C:\Users\x\Documents\logcsharp\exxIfAnh\obj\Debug\net7.0\exxIfAnh.genruntimeconfig.cache
+C:\Users\x\Documents\logcsharp\exxIfAnh\obj\Debug\net7.0\ref\exxIfAnh.dll

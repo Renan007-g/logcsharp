@@ -1,0 +1,15 @@
+C:\Users\x\Documents\logcsharp\exxInOutControl\bin\Debug\net7.0\exxInOutControl.exe
+C:\Users\x\Documents\logcsharp\exxInOutControl\bin\Debug\net7.0\exxInOutControl.deps.json
+C:\Users\x\Documents\logcsharp\exxInOutControl\bin\Debug\net7.0\exxInOutControl.runtimeconfig.json
+C:\Users\x\Documents\logcsharp\exxInOutControl\bin\Debug\net7.0\exxInOutControl.dll
+C:\Users\x\Documents\logcsharp\exxInOutControl\bin\Debug\net7.0\exxInOutControl.pdb
+C:\Users\x\Documents\logcsharp\exxInOutControl\obj\Debug\net7.0\exxInOutControl.csproj.AssemblyReference.cache
+C:\Users\x\Documents\logcsharp\exxInOutControl\obj\Debug\net7.0\exxInOutControl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\x\Documents\logcsharp\exxInOutControl\obj\Debug\net7.0\exxInOutControl.AssemblyInfoInputs.cache
+C:\Users\x\Documents\logcsharp\exxInOutControl\obj\Debug\net7.0\exxInOutControl.AssemblyInfo.cs
+C:\Users\x\Documents\logcsharp\exxInOutControl\obj\Debug\net7.0\exxInOutControl.csproj.CoreCompileInputs.cache
+C:\Users\x\Documents\logcsharp\exxInOutControl\obj\Debug\net7.0\exxInOutControl.dll
+C:\Users\x\Documents\logcsharp\exxInOutControl\obj\Debug\net7.0\refint\exxInOutControl.dll
+C:\Users\x\Documents\logcsharp\exxInOutControl\obj\Debug\net7.0\exxInOutControl.pdb
+C:\Users\x\Documents\logcsharp\exxInOutControl\obj\Debug\net7.0\exxInOutControl.genruntimeconfig.cache
+C:\Users\x\Documents\logcsharp\exxInOutControl\obj\Debug\net7.0\ref\exxInOutControl.dll

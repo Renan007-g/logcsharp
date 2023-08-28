@@ -3,7 +3,8 @@
 double media = 6;
 
 System.Console.WriteLine("Digite a nota do aluno: ");
-double nota = Convert.ToDouble(Console.ReadLine());
+//double nota = Convert.ToDouble(Console.ReadLine());
+double nota = 5.1;
 
 if(nota >= media)
 {

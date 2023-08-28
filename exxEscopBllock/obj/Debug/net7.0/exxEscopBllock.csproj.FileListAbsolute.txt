@@ -1,0 +1,15 @@
+C:\Users\x\Documents\logcsharp\exxEscopBllock\bin\Debug\net7.0\exxEscopBllock.exe
+C:\Users\x\Documents\logcsharp\exxEscopBllock\bin\Debug\net7.0\exxEscopBllock.deps.json
+C:\Users\x\Documents\logcsharp\exxEscopBllock\bin\Debug\net7.0\exxEscopBllock.runtimeconfig.json
+C:\Users\x\Documents\logcsharp\exxEscopBllock\bin\Debug\net7.0\exxEscopBllock.dll
+C:\Users\x\Documents\logcsharp\exxEscopBllock\bin\Debug\net7.0\exxEscopBllock.pdb
+C:\Users\x\Documents\logcsharp\exxEscopBllock\obj\Debug\net7.0\exxEscopBllock.csproj.AssemblyReference.cache
+C:\Users\x\Documents\logcsharp\exxEscopBllock\obj\Debug\net7.0\exxEscopBllock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\x\Documents\logcsharp\exxEscopBllock\obj\Debug\net7.0\exxEscopBllock.AssemblyInfoInputs.cache
+C:\Users\x\Documents\logcsharp\exxEscopBllock\obj\Debug\net7.0\exxEscopBllock.AssemblyInfo.cs
+C:\Users\x\Documents\logcsharp\exxEscopBllock\obj\Debug\net7.0\exxEscopBllock.csproj.CoreCompileInputs.cache
+C:\Users\x\Documents\logcsharp\exxEscopBllock\obj\Debug\net7.0\exxEscopBllock.dll
+C:\Users\x\Documents\logcsharp\exxEscopBllock\obj\Debug\net7.0\refint\exxEscopBllock.dll
+C:\Users\x\Documents\logcsharp\exxEscopBllock\obj\Debug\net7.0\exxEscopBllock.pdb
+C:\Users\x\Documents\logcsharp\exxEscopBllock\obj\Debug\net7.0\exxEscopBllock.genruntimeconfig.cache
+C:\Users\x\Documents\logcsharp\exxEscopBllock\obj\Debug\net7.0\ref\exxEscopBllock.dll
