@@ -1,0 +1,15 @@
+C:\Users\x\Documents\logcsharp\expBasInstBreak\bin\Debug\net7.0\expBasInstBreak.exe
+C:\Users\x\Documents\logcsharp\expBasInstBreak\bin\Debug\net7.0\expBasInstBreak.deps.json
+C:\Users\x\Documents\logcsharp\expBasInstBreak\bin\Debug\net7.0\expBasInstBreak.runtimeconfig.json
+C:\Users\x\Documents\logcsharp\expBasInstBreak\bin\Debug\net7.0\expBasInstBreak.dll
+C:\Users\x\Documents\logcsharp\expBasInstBreak\bin\Debug\net7.0\expBasInstBreak.pdb
+C:\Users\x\Documents\logcsharp\expBasInstBreak\obj\Debug\net7.0\expBasInstBreak.csproj.AssemblyReference.cache
+C:\Users\x\Documents\logcsharp\expBasInstBreak\obj\Debug\net7.0\expBasInstBreak.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\x\Documents\logcsharp\expBasInstBreak\obj\Debug\net7.0\expBasInstBreak.AssemblyInfoInputs.cache
+C:\Users\x\Documents\logcsharp\expBasInstBreak\obj\Debug\net7.0\expBasInstBreak.AssemblyInfo.cs
+C:\Users\x\Documents\logcsharp\expBasInstBreak\obj\Debug\net7.0\expBasInstBreak.csproj.CoreCompileInputs.cache
+C:\Users\x\Documents\logcsharp\expBasInstBreak\obj\Debug\net7.0\expBasInstBreak.dll
+C:\Users\x\Documents\logcsharp\expBasInstBreak\obj\Debug\net7.0\refint\expBasInstBreak.dll
+C:\Users\x\Documents\logcsharp\expBasInstBreak\obj\Debug\net7.0\expBasInstBreak.pdb
+C:\Users\x\Documents\logcsharp\expBasInstBreak\obj\Debug\net7.0\expBasInstBreak.genruntimeconfig.cache
+C:\Users\x\Documents\logcsharp\expBasInstBreak\obj\Debug\net7.0\ref\expBasInstBreak.dll

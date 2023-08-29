@@ -1,0 +1,15 @@
+C:\Users\x\Documents\logcsharp\expPraInstContinue\bin\Debug\net7.0\expPraInstContinue.exe
+C:\Users\x\Documents\logcsharp\expPraInstContinue\bin\Debug\net7.0\expPraInstContinue.deps.json
+C:\Users\x\Documents\logcsharp\expPraInstContinue\bin\Debug\net7.0\expPraInstContinue.runtimeconfig.json
+C:\Users\x\Documents\logcsharp\expPraInstContinue\bin\Debug\net7.0\expPraInstContinue.dll
+C:\Users\x\Documents\logcsharp\expPraInstContinue\bin\Debug\net7.0\expPraInstContinue.pdb
+C:\Users\x\Documents\logcsharp\expPraInstContinue\obj\Debug\net7.0\expPraInstContinue.csproj.AssemblyReference.cache
+C:\Users\x\Documents\logcsharp\expPraInstContinue\obj\Debug\net7.0\expPraInstContinue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\x\Documents\logcsharp\expPraInstContinue\obj\Debug\net7.0\expPraInstContinue.AssemblyInfoInputs.cache
+C:\Users\x\Documents\logcsharp\expPraInstContinue\obj\Debug\net7.0\expPraInstContinue.AssemblyInfo.cs
+C:\Users\x\Documents\logcsharp\expPraInstContinue\obj\Debug\net7.0\expPraInstContinue.csproj.CoreCompileInputs.cache
+C:\Users\x\Documents\logcsharp\expPraInstContinue\obj\Debug\net7.0\expPraInstContinue.dll
+C:\Users\x\Documents\logcsharp\expPraInstContinue\obj\Debug\net7.0\refint\expPraInstContinue.dll
+C:\Users\x\Documents\logcsharp\expPraInstContinue\obj\Debug\net7.0\expPraInstContinue.pdb
+C:\Users\x\Documents\logcsharp\expPraInstContinue\obj\Debug\net7.0\expPraInstContinue.genruntimeconfig.cache
+C:\Users\x\Documents\logcsharp\expPraInstContinue\obj\Debug\net7.0\ref\expPraInstContinue.dll

@@ -1,0 +1,15 @@
+C:\Users\x\Documents\logcsharp\exxContCBreak\bin\Debug\net7.0\exxContCBreak.exe
+C:\Users\x\Documents\logcsharp\exxContCBreak\bin\Debug\net7.0\exxContCBreak.deps.json
+C:\Users\x\Documents\logcsharp\exxContCBreak\bin\Debug\net7.0\exxContCBreak.runtimeconfig.json
+C:\Users\x\Documents\logcsharp\exxContCBreak\bin\Debug\net7.0\exxContCBreak.dll
+C:\Users\x\Documents\logcsharp\exxContCBreak\bin\Debug\net7.0\exxContCBreak.pdb
+C:\Users\x\Documents\logcsharp\exxContCBreak\obj\Debug\net7.0\exxContCBreak.csproj.AssemblyReference.cache
+C:\Users\x\Documents\logcsharp\exxContCBreak\obj\Debug\net7.0\exxContCBreak.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\x\Documents\logcsharp\exxContCBreak\obj\Debug\net7.0\exxContCBreak.AssemblyInfoInputs.cache
+C:\Users\x\Documents\logcsharp\exxContCBreak\obj\Debug\net7.0\exxContCBreak.AssemblyInfo.cs
+C:\Users\x\Documents\logcsharp\exxContCBreak\obj\Debug\net7.0\exxContCBreak.csproj.CoreCompileInputs.cache
+C:\Users\x\Documents\logcsharp\exxContCBreak\obj\Debug\net7.0\exxContCBreak.dll
+C:\Users\x\Documents\logcsharp\exxContCBreak\obj\Debug\net7.0\refint\exxContCBreak.dll
+C:\Users\x\Documents\logcsharp\exxContCBreak\obj\Debug\net7.0\exxContCBreak.pdb
+C:\Users\x\Documents\logcsharp\exxContCBreak\obj\Debug\net7.0\exxContCBreak.genruntimeconfig.cache
+C:\Users\x\Documents\logcsharp\exxContCBreak\obj\Debug\net7.0\ref\exxContCBreak.dll
