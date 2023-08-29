@@ -1,0 +1,15 @@
+C:\Users\x\Documents\logcsharp\whleAnnha\bin\Debug\net7.0\whleAnnha.exe
+C:\Users\x\Documents\logcsharp\whleAnnha\bin\Debug\net7.0\whleAnnha.deps.json
+C:\Users\x\Documents\logcsharp\whleAnnha\bin\Debug\net7.0\whleAnnha.runtimeconfig.json
+C:\Users\x\Documents\logcsharp\whleAnnha\bin\Debug\net7.0\whleAnnha.dll
+C:\Users\x\Documents\logcsharp\whleAnnha\bin\Debug\net7.0\whleAnnha.pdb
+C:\Users\x\Documents\logcsharp\whleAnnha\obj\Debug\net7.0\whleAnnha.csproj.AssemblyReference.cache
+C:\Users\x\Documents\logcsharp\whleAnnha\obj\Debug\net7.0\whleAnnha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\x\Documents\logcsharp\whleAnnha\obj\Debug\net7.0\whleAnnha.AssemblyInfoInputs.cache
+C:\Users\x\Documents\logcsharp\whleAnnha\obj\Debug\net7.0\whleAnnha.AssemblyInfo.cs
+C:\Users\x\Documents\logcsharp\whleAnnha\obj\Debug\net7.0\whleAnnha.csproj.CoreCompileInputs.cache
+C:\Users\x\Documents\logcsharp\whleAnnha\obj\Debug\net7.0\whleAnnha.dll
+C:\Users\x\Documents\logcsharp\whleAnnha\obj\Debug\net7.0\refint\whleAnnha.dll
+C:\Users\x\Documents\logcsharp\whleAnnha\obj\Debug\net7.0\whleAnnha.pdb
+C:\Users\x\Documents\logcsharp\whleAnnha\obj\Debug\net7.0\whleAnnha.genruntimeconfig.cache
+C:\Users\x\Documents\logcsharp\whleAnnha\obj\Debug\net7.0\ref\whleAnnha.dll

@@ -1,0 +1,15 @@
+C:\Users\x\Documents\logcsharp\exxTAbCompl\bin\Debug\net7.0\exxTAbCompl.exe
+C:\Users\x\Documents\logcsharp\exxTAbCompl\bin\Debug\net7.0\exxTAbCompl.deps.json
+C:\Users\x\Documents\logcsharp\exxTAbCompl\bin\Debug\net7.0\exxTAbCompl.runtimeconfig.json
+C:\Users\x\Documents\logcsharp\exxTAbCompl\bin\Debug\net7.0\exxTAbCompl.dll
+C:\Users\x\Documents\logcsharp\exxTAbCompl\bin\Debug\net7.0\exxTAbCompl.pdb
+C:\Users\x\Documents\logcsharp\exxTAbCompl\obj\Debug\net7.0\exxTAbCompl.csproj.AssemblyReference.cache
+C:\Users\x\Documents\logcsharp\exxTAbCompl\obj\Debug\net7.0\exxTAbCompl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\x\Documents\logcsharp\exxTAbCompl\obj\Debug\net7.0\exxTAbCompl.AssemblyInfoInputs.cache
+C:\Users\x\Documents\logcsharp\exxTAbCompl\obj\Debug\net7.0\exxTAbCompl.AssemblyInfo.cs
+C:\Users\x\Documents\logcsharp\exxTAbCompl\obj\Debug\net7.0\exxTAbCompl.csproj.CoreCompileInputs.cache
+C:\Users\x\Documents\logcsharp\exxTAbCompl\obj\Debug\net7.0\exxTAbCompl.dll
+C:\Users\x\Documents\logcsharp\exxTAbCompl\obj\Debug\net7.0\refint\exxTAbCompl.dll
+C:\Users\x\Documents\logcsharp\exxTAbCompl\obj\Debug\net7.0\exxTAbCompl.pdb
+C:\Users\x\Documents\logcsharp\exxTAbCompl\obj\Debug\net7.0\exxTAbCompl.genruntimeconfig.cache
+C:\Users\x\Documents\logcsharp\exxTAbCompl\obj\Debug\net7.0\ref\exxTAbCompl.dll
