@@ -1,0 +1,15 @@
+C:\Users\x\Documents\logcsharp\exxInstGoto\bin\Debug\net7.0\exxInstGoto.exe
+C:\Users\x\Documents\logcsharp\exxInstGoto\bin\Debug\net7.0\exxInstGoto.deps.json
+C:\Users\x\Documents\logcsharp\exxInstGoto\bin\Debug\net7.0\exxInstGoto.runtimeconfig.json
+C:\Users\x\Documents\logcsharp\exxInstGoto\bin\Debug\net7.0\exxInstGoto.dll
+C:\Users\x\Documents\logcsharp\exxInstGoto\bin\Debug\net7.0\exxInstGoto.pdb
+C:\Users\x\Documents\logcsharp\exxInstGoto\obj\Debug\net7.0\exxInstGoto.csproj.AssemblyReference.cache
+C:\Users\x\Documents\logcsharp\exxInstGoto\obj\Debug\net7.0\exxInstGoto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\x\Documents\logcsharp\exxInstGoto\obj\Debug\net7.0\exxInstGoto.AssemblyInfoInputs.cache
+C:\Users\x\Documents\logcsharp\exxInstGoto\obj\Debug\net7.0\exxInstGoto.AssemblyInfo.cs
+C:\Users\x\Documents\logcsharp\exxInstGoto\obj\Debug\net7.0\exxInstGoto.csproj.CoreCompileInputs.cache
+C:\Users\x\Documents\logcsharp\exxInstGoto\obj\Debug\net7.0\exxInstGoto.dll
+C:\Users\x\Documents\logcsharp\exxInstGoto\obj\Debug\net7.0\refint\exxInstGoto.dll
+C:\Users\x\Documents\logcsharp\exxInstGoto\obj\Debug\net7.0\exxInstGoto.pdb
+C:\Users\x\Documents\logcsharp\exxInstGoto\obj\Debug\net7.0\exxInstGoto.genruntimeconfig.cache
+C:\Users\x\Documents\logcsharp\exxInstGoto\obj\Debug\net7.0\ref\exxInstGoto.dll

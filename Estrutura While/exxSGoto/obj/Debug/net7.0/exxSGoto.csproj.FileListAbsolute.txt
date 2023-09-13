@@ -1,0 +1,15 @@
+C:\Users\x\Documents\logcsharp\exxSGoto\bin\Debug\net7.0\exxSGoto.exe
+C:\Users\x\Documents\logcsharp\exxSGoto\bin\Debug\net7.0\exxSGoto.deps.json
+C:\Users\x\Documents\logcsharp\exxSGoto\bin\Debug\net7.0\exxSGoto.runtimeconfig.json
+C:\Users\x\Documents\logcsharp\exxSGoto\bin\Debug\net7.0\exxSGoto.dll
+C:\Users\x\Documents\logcsharp\exxSGoto\bin\Debug\net7.0\exxSGoto.pdb
+C:\Users\x\Documents\logcsharp\exxSGoto\obj\Debug\net7.0\exxSGoto.csproj.AssemblyReference.cache
+C:\Users\x\Documents\logcsharp\exxSGoto\obj\Debug\net7.0\exxSGoto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\x\Documents\logcsharp\exxSGoto\obj\Debug\net7.0\exxSGoto.AssemblyInfoInputs.cache
+C:\Users\x\Documents\logcsharp\exxSGoto\obj\Debug\net7.0\exxSGoto.AssemblyInfo.cs
+C:\Users\x\Documents\logcsharp\exxSGoto\obj\Debug\net7.0\exxSGoto.csproj.CoreCompileInputs.cache
+C:\Users\x\Documents\logcsharp\exxSGoto\obj\Debug\net7.0\exxSGoto.dll
+C:\Users\x\Documents\logcsharp\exxSGoto\obj\Debug\net7.0\refint\exxSGoto.dll
+C:\Users\x\Documents\logcsharp\exxSGoto\obj\Debug\net7.0\exxSGoto.pdb
+C:\Users\x\Documents\logcsharp\exxSGoto\obj\Debug\net7.0\exxSGoto.genruntimeconfig.cache
+C:\Users\x\Documents\logcsharp\exxSGoto\obj\Debug\net7.0\ref\exxSGoto.dll

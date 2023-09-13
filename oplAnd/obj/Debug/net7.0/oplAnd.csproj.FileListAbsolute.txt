@@ -1,0 +1,15 @@
+C:\Users\x\Documents\logcsharp\oplAnd\bin\Debug\net7.0\oplAnd.exe
+C:\Users\x\Documents\logcsharp\oplAnd\bin\Debug\net7.0\oplAnd.deps.json
+C:\Users\x\Documents\logcsharp\oplAnd\bin\Debug\net7.0\oplAnd.runtimeconfig.json
+C:\Users\x\Documents\logcsharp\oplAnd\bin\Debug\net7.0\oplAnd.dll
+C:\Users\x\Documents\logcsharp\oplAnd\bin\Debug\net7.0\oplAnd.pdb
+C:\Users\x\Documents\logcsharp\oplAnd\obj\Debug\net7.0\oplAnd.csproj.AssemblyReference.cache
+C:\Users\x\Documents\logcsharp\oplAnd\obj\Debug\net7.0\oplAnd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\x\Documents\logcsharp\oplAnd\obj\Debug\net7.0\oplAnd.AssemblyInfoInputs.cache
+C:\Users\x\Documents\logcsharp\oplAnd\obj\Debug\net7.0\oplAnd.AssemblyInfo.cs
+C:\Users\x\Documents\logcsharp\oplAnd\obj\Debug\net7.0\oplAnd.csproj.CoreCompileInputs.cache
+C:\Users\x\Documents\logcsharp\oplAnd\obj\Debug\net7.0\oplAnd.dll
+C:\Users\x\Documents\logcsharp\oplAnd\obj\Debug\net7.0\refint\oplAnd.dll
+C:\Users\x\Documents\logcsharp\oplAnd\obj\Debug\net7.0\oplAnd.pdb
+C:\Users\x\Documents\logcsharp\oplAnd\obj\Debug\net7.0\oplAnd.genruntimeconfig.cache
+C:\Users\x\Documents\logcsharp\oplAnd\obj\Debug\net7.0\ref\oplAnd.dll
