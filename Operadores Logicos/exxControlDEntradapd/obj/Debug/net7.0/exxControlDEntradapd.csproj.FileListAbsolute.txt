@@ -1,0 +1,15 @@
+C:\Users\x\Documents\logcsharp\exxControlDEntradapd\bin\Debug\net7.0\exxControlDEntradapd.exe
+C:\Users\x\Documents\logcsharp\exxControlDEntradapd\bin\Debug\net7.0\exxControlDEntradapd.deps.json
+C:\Users\x\Documents\logcsharp\exxControlDEntradapd\bin\Debug\net7.0\exxControlDEntradapd.runtimeconfig.json
+C:\Users\x\Documents\logcsharp\exxControlDEntradapd\bin\Debug\net7.0\exxControlDEntradapd.dll
+C:\Users\x\Documents\logcsharp\exxControlDEntradapd\bin\Debug\net7.0\exxControlDEntradapd.pdb
+C:\Users\x\Documents\logcsharp\exxControlDEntradapd\obj\Debug\net7.0\exxControlDEntradapd.csproj.AssemblyReference.cache
+C:\Users\x\Documents\logcsharp\exxControlDEntradapd\obj\Debug\net7.0\exxControlDEntradapd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\x\Documents\logcsharp\exxControlDEntradapd\obj\Debug\net7.0\exxControlDEntradapd.AssemblyInfoInputs.cache
+C:\Users\x\Documents\logcsharp\exxControlDEntradapd\obj\Debug\net7.0\exxControlDEntradapd.AssemblyInfo.cs
+C:\Users\x\Documents\logcsharp\exxControlDEntradapd\obj\Debug\net7.0\exxControlDEntradapd.csproj.CoreCompileInputs.cache
+C:\Users\x\Documents\logcsharp\exxControlDEntradapd\obj\Debug\net7.0\exxControlDEntradapd.dll
+C:\Users\x\Documents\logcsharp\exxControlDEntradapd\obj\Debug\net7.0\refint\exxControlDEntradapd.dll
+C:\Users\x\Documents\logcsharp\exxControlDEntradapd\obj\Debug\net7.0\exxControlDEntradapd.pdb
+C:\Users\x\Documents\logcsharp\exxControlDEntradapd\obj\Debug\net7.0\exxControlDEntradapd.genruntimeconfig.cache
+C:\Users\x\Documents\logcsharp\exxControlDEntradapd\obj\Debug\net7.0\ref\exxControlDEntradapd.dll

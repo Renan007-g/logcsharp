@@ -1,0 +1,15 @@
+C:\Users\x\Documents\logcsharp\EXXMultaPVel\bin\Debug\net7.0\EXXMultaPVel.exe
+C:\Users\x\Documents\logcsharp\EXXMultaPVel\bin\Debug\net7.0\EXXMultaPVel.deps.json
+C:\Users\x\Documents\logcsharp\EXXMultaPVel\bin\Debug\net7.0\EXXMultaPVel.runtimeconfig.json
+C:\Users\x\Documents\logcsharp\EXXMultaPVel\bin\Debug\net7.0\EXXMultaPVel.dll
+C:\Users\x\Documents\logcsharp\EXXMultaPVel\bin\Debug\net7.0\EXXMultaPVel.pdb
+C:\Users\x\Documents\logcsharp\EXXMultaPVel\obj\Debug\net7.0\EXXMultaPVel.csproj.AssemblyReference.cache
+C:\Users\x\Documents\logcsharp\EXXMultaPVel\obj\Debug\net7.0\EXXMultaPVel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\x\Documents\logcsharp\EXXMultaPVel\obj\Debug\net7.0\EXXMultaPVel.AssemblyInfoInputs.cache
+C:\Users\x\Documents\logcsharp\EXXMultaPVel\obj\Debug\net7.0\EXXMultaPVel.AssemblyInfo.cs
+C:\Users\x\Documents\logcsharp\EXXMultaPVel\obj\Debug\net7.0\EXXMultaPVel.csproj.CoreCompileInputs.cache
+C:\Users\x\Documents\logcsharp\EXXMultaPVel\obj\Debug\net7.0\EXXMultaPVel.dll
+C:\Users\x\Documents\logcsharp\EXXMultaPVel\obj\Debug\net7.0\refint\EXXMultaPVel.dll
+C:\Users\x\Documents\logcsharp\EXXMultaPVel\obj\Debug\net7.0\EXXMultaPVel.pdb
+C:\Users\x\Documents\logcsharp\EXXMultaPVel\obj\Debug\net7.0\EXXMultaPVel.genruntimeconfig.cache
+C:\Users\x\Documents\logcsharp\EXXMultaPVel\obj\Debug\net7.0\ref\EXXMultaPVel.dll

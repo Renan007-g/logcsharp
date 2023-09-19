@@ -1,0 +1,15 @@
+C:\Users\x\Documents\logcsharp\exxNumDecres\bin\Debug\net7.0\exxNumDecres.exe
+C:\Users\x\Documents\logcsharp\exxNumDecres\bin\Debug\net7.0\exxNumDecres.deps.json
+C:\Users\x\Documents\logcsharp\exxNumDecres\bin\Debug\net7.0\exxNumDecres.runtimeconfig.json
+C:\Users\x\Documents\logcsharp\exxNumDecres\bin\Debug\net7.0\exxNumDecres.dll
+C:\Users\x\Documents\logcsharp\exxNumDecres\bin\Debug\net7.0\exxNumDecres.pdb
+C:\Users\x\Documents\logcsharp\exxNumDecres\obj\Debug\net7.0\exxNumDecres.csproj.AssemblyReference.cache
+C:\Users\x\Documents\logcsharp\exxNumDecres\obj\Debug\net7.0\exxNumDecres.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\x\Documents\logcsharp\exxNumDecres\obj\Debug\net7.0\exxNumDecres.AssemblyInfoInputs.cache
+C:\Users\x\Documents\logcsharp\exxNumDecres\obj\Debug\net7.0\exxNumDecres.AssemblyInfo.cs
+C:\Users\x\Documents\logcsharp\exxNumDecres\obj\Debug\net7.0\exxNumDecres.csproj.CoreCompileInputs.cache
+C:\Users\x\Documents\logcsharp\exxNumDecres\obj\Debug\net7.0\exxNumDecres.dll
+C:\Users\x\Documents\logcsharp\exxNumDecres\obj\Debug\net7.0\refint\exxNumDecres.dll
+C:\Users\x\Documents\logcsharp\exxNumDecres\obj\Debug\net7.0\exxNumDecres.pdb
+C:\Users\x\Documents\logcsharp\exxNumDecres\obj\Debug\net7.0\exxNumDecres.genruntimeconfig.cache
+C:\Users\x\Documents\logcsharp\exxNumDecres\obj\Debug\net7.0\ref\exxNumDecres.dll

@@ -1,0 +1,15 @@
+C:\Users\x\Documents\logcsharp\exxGraus\bin\Debug\net7.0\exxGraus.exe
+C:\Users\x\Documents\logcsharp\exxGraus\bin\Debug\net7.0\exxGraus.deps.json
+C:\Users\x\Documents\logcsharp\exxGraus\bin\Debug\net7.0\exxGraus.runtimeconfig.json
+C:\Users\x\Documents\logcsharp\exxGraus\bin\Debug\net7.0\exxGraus.dll
+C:\Users\x\Documents\logcsharp\exxGraus\bin\Debug\net7.0\exxGraus.pdb
+C:\Users\x\Documents\logcsharp\exxGraus\obj\Debug\net7.0\exxGraus.csproj.AssemblyReference.cache
+C:\Users\x\Documents\logcsharp\exxGraus\obj\Debug\net7.0\exxGraus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\x\Documents\logcsharp\exxGraus\obj\Debug\net7.0\exxGraus.AssemblyInfoInputs.cache
+C:\Users\x\Documents\logcsharp\exxGraus\obj\Debug\net7.0\exxGraus.AssemblyInfo.cs
+C:\Users\x\Documents\logcsharp\exxGraus\obj\Debug\net7.0\exxGraus.csproj.CoreCompileInputs.cache
+C:\Users\x\Documents\logcsharp\exxGraus\obj\Debug\net7.0\exxGraus.dll
+C:\Users\x\Documents\logcsharp\exxGraus\obj\Debug\net7.0\refint\exxGraus.dll
+C:\Users\x\Documents\logcsharp\exxGraus\obj\Debug\net7.0\exxGraus.pdb
+C:\Users\x\Documents\logcsharp\exxGraus\obj\Debug\net7.0\exxGraus.genruntimeconfig.cache
+C:\Users\x\Documents\logcsharp\exxGraus\obj\Debug\net7.0\ref\exxGraus.dll
