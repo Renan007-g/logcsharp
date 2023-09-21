@@ -1,0 +1,15 @@
+C:\Users\x\Documents\logcsharp\expIntForAni\bin\Debug\net7.0\expIntForAni.exe
+C:\Users\x\Documents\logcsharp\expIntForAni\bin\Debug\net7.0\expIntForAni.deps.json
+C:\Users\x\Documents\logcsharp\expIntForAni\bin\Debug\net7.0\expIntForAni.runtimeconfig.json
+C:\Users\x\Documents\logcsharp\expIntForAni\bin\Debug\net7.0\expIntForAni.dll
+C:\Users\x\Documents\logcsharp\expIntForAni\bin\Debug\net7.0\expIntForAni.pdb
+C:\Users\x\Documents\logcsharp\expIntForAni\obj\Debug\net7.0\expIntForAni.csproj.AssemblyReference.cache
+C:\Users\x\Documents\logcsharp\expIntForAni\obj\Debug\net7.0\expIntForAni.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\x\Documents\logcsharp\expIntForAni\obj\Debug\net7.0\expIntForAni.AssemblyInfoInputs.cache
+C:\Users\x\Documents\logcsharp\expIntForAni\obj\Debug\net7.0\expIntForAni.AssemblyInfo.cs
+C:\Users\x\Documents\logcsharp\expIntForAni\obj\Debug\net7.0\expIntForAni.csproj.CoreCompileInputs.cache
+C:\Users\x\Documents\logcsharp\expIntForAni\obj\Debug\net7.0\expIntForAni.dll
+C:\Users\x\Documents\logcsharp\expIntForAni\obj\Debug\net7.0\refint\expIntForAni.dll
+C:\Users\x\Documents\logcsharp\expIntForAni\obj\Debug\net7.0\expIntForAni.pdb
+C:\Users\x\Documents\logcsharp\expIntForAni\obj\Debug\net7.0\expIntForAni.genruntimeconfig.cache
+C:\Users\x\Documents\logcsharp\expIntForAni\obj\Debug\net7.0\ref\expIntForAni.dll

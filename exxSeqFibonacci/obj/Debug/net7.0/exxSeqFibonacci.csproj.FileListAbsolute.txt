@@ -1,0 +1,15 @@
+C:\Users\x\Documents\logcsharp\exxSeqFibonacci\bin\Debug\net7.0\exxSeqFibonacci.exe
+C:\Users\x\Documents\logcsharp\exxSeqFibonacci\bin\Debug\net7.0\exxSeqFibonacci.deps.json
+C:\Users\x\Documents\logcsharp\exxSeqFibonacci\bin\Debug\net7.0\exxSeqFibonacci.runtimeconfig.json
+C:\Users\x\Documents\logcsharp\exxSeqFibonacci\bin\Debug\net7.0\exxSeqFibonacci.dll
+C:\Users\x\Documents\logcsharp\exxSeqFibonacci\bin\Debug\net7.0\exxSeqFibonacci.pdb
+C:\Users\x\Documents\logcsharp\exxSeqFibonacci\obj\Debug\net7.0\exxSeqFibonacci.csproj.AssemblyReference.cache
+C:\Users\x\Documents\logcsharp\exxSeqFibonacci\obj\Debug\net7.0\exxSeqFibonacci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\x\Documents\logcsharp\exxSeqFibonacci\obj\Debug\net7.0\exxSeqFibonacci.AssemblyInfoInputs.cache
+C:\Users\x\Documents\logcsharp\exxSeqFibonacci\obj\Debug\net7.0\exxSeqFibonacci.AssemblyInfo.cs
+C:\Users\x\Documents\logcsharp\exxSeqFibonacci\obj\Debug\net7.0\exxSeqFibonacci.csproj.CoreCompileInputs.cache
+C:\Users\x\Documents\logcsharp\exxSeqFibonacci\obj\Debug\net7.0\exxSeqFibonacci.dll
+C:\Users\x\Documents\logcsharp\exxSeqFibonacci\obj\Debug\net7.0\refint\exxSeqFibonacci.dll
+C:\Users\x\Documents\logcsharp\exxSeqFibonacci\obj\Debug\net7.0\exxSeqFibonacci.pdb
+C:\Users\x\Documents\logcsharp\exxSeqFibonacci\obj\Debug\net7.0\exxSeqFibonacci.genruntimeconfig.cache
+C:\Users\x\Documents\logcsharp\exxSeqFibonacci\obj\Debug\net7.0\ref\exxSeqFibonacci.dll

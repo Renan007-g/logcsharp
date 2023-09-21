@@ -1,0 +1,15 @@
+C:\Users\x\Documents\logcsharp\expInstFor\bin\Debug\net7.0\expInstFor.exe
+C:\Users\x\Documents\logcsharp\expInstFor\bin\Debug\net7.0\expInstFor.deps.json
+C:\Users\x\Documents\logcsharp\expInstFor\bin\Debug\net7.0\expInstFor.runtimeconfig.json
+C:\Users\x\Documents\logcsharp\expInstFor\bin\Debug\net7.0\expInstFor.dll
+C:\Users\x\Documents\logcsharp\expInstFor\bin\Debug\net7.0\expInstFor.pdb
+C:\Users\x\Documents\logcsharp\expInstFor\obj\Debug\net7.0\expInstFor.csproj.AssemblyReference.cache
+C:\Users\x\Documents\logcsharp\expInstFor\obj\Debug\net7.0\expInstFor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\x\Documents\logcsharp\expInstFor\obj\Debug\net7.0\expInstFor.AssemblyInfoInputs.cache
+C:\Users\x\Documents\logcsharp\expInstFor\obj\Debug\net7.0\expInstFor.AssemblyInfo.cs
+C:\Users\x\Documents\logcsharp\expInstFor\obj\Debug\net7.0\expInstFor.csproj.CoreCompileInputs.cache
+C:\Users\x\Documents\logcsharp\expInstFor\obj\Debug\net7.0\expInstFor.dll
+C:\Users\x\Documents\logcsharp\expInstFor\obj\Debug\net7.0\refint\expInstFor.dll
+C:\Users\x\Documents\logcsharp\expInstFor\obj\Debug\net7.0\expInstFor.pdb
+C:\Users\x\Documents\logcsharp\expInstFor\obj\Debug\net7.0\expInstFor.genruntimeconfig.cache
+C:\Users\x\Documents\logcsharp\expInstFor\obj\Debug\net7.0\ref\expInstFor.dll

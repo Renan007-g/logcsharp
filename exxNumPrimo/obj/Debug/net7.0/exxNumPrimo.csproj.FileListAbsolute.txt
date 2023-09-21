@@ -1,0 +1,15 @@
+C:\Users\x\Documents\logcsharp\exxNumPrimo\bin\Debug\net7.0\exxNumPrimo.exe
+C:\Users\x\Documents\logcsharp\exxNumPrimo\bin\Debug\net7.0\exxNumPrimo.deps.json
+C:\Users\x\Documents\logcsharp\exxNumPrimo\bin\Debug\net7.0\exxNumPrimo.runtimeconfig.json
+C:\Users\x\Documents\logcsharp\exxNumPrimo\bin\Debug\net7.0\exxNumPrimo.dll
+C:\Users\x\Documents\logcsharp\exxNumPrimo\bin\Debug\net7.0\exxNumPrimo.pdb
+C:\Users\x\Documents\logcsharp\exxNumPrimo\obj\Debug\net7.0\exxNumPrimo.csproj.AssemblyReference.cache
+C:\Users\x\Documents\logcsharp\exxNumPrimo\obj\Debug\net7.0\exxNumPrimo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\x\Documents\logcsharp\exxNumPrimo\obj\Debug\net7.0\exxNumPrimo.AssemblyInfoInputs.cache
+C:\Users\x\Documents\logcsharp\exxNumPrimo\obj\Debug\net7.0\exxNumPrimo.AssemblyInfo.cs
+C:\Users\x\Documents\logcsharp\exxNumPrimo\obj\Debug\net7.0\exxNumPrimo.csproj.CoreCompileInputs.cache
+C:\Users\x\Documents\logcsharp\exxNumPrimo\obj\Debug\net7.0\exxNumPrimo.dll
+C:\Users\x\Documents\logcsharp\exxNumPrimo\obj\Debug\net7.0\refint\exxNumPrimo.dll
+C:\Users\x\Documents\logcsharp\exxNumPrimo\obj\Debug\net7.0\exxNumPrimo.pdb
+C:\Users\x\Documents\logcsharp\exxNumPrimo\obj\Debug\net7.0\exxNumPrimo.genruntimeconfig.cache
+C:\Users\x\Documents\logcsharp\exxNumPrimo\obj\Debug\net7.0\ref\exxNumPrimo.dll
