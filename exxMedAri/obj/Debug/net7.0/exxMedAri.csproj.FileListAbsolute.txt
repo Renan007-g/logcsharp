@@ -1,0 +1,15 @@
+C:\Users\x\Documents\logcsharp\exxMedAri\bin\Debug\net7.0\exxMedAri.exe
+C:\Users\x\Documents\logcsharp\exxMedAri\bin\Debug\net7.0\exxMedAri.deps.json
+C:\Users\x\Documents\logcsharp\exxMedAri\bin\Debug\net7.0\exxMedAri.runtimeconfig.json
+C:\Users\x\Documents\logcsharp\exxMedAri\bin\Debug\net7.0\exxMedAri.dll
+C:\Users\x\Documents\logcsharp\exxMedAri\bin\Debug\net7.0\exxMedAri.pdb
+C:\Users\x\Documents\logcsharp\exxMedAri\obj\Debug\net7.0\exxMedAri.csproj.AssemblyReference.cache
+C:\Users\x\Documents\logcsharp\exxMedAri\obj\Debug\net7.0\exxMedAri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\x\Documents\logcsharp\exxMedAri\obj\Debug\net7.0\exxMedAri.AssemblyInfoInputs.cache
+C:\Users\x\Documents\logcsharp\exxMedAri\obj\Debug\net7.0\exxMedAri.AssemblyInfo.cs
+C:\Users\x\Documents\logcsharp\exxMedAri\obj\Debug\net7.0\exxMedAri.csproj.CoreCompileInputs.cache
+C:\Users\x\Documents\logcsharp\exxMedAri\obj\Debug\net7.0\exxMedAri.dll
+C:\Users\x\Documents\logcsharp\exxMedAri\obj\Debug\net7.0\refint\exxMedAri.dll
+C:\Users\x\Documents\logcsharp\exxMedAri\obj\Debug\net7.0\exxMedAri.pdb
+C:\Users\x\Documents\logcsharp\exxMedAri\obj\Debug\net7.0\exxMedAri.genruntimeconfig.cache
+C:\Users\x\Documents\logcsharp\exxMedAri\obj\Debug\net7.0\ref\exxMedAri.dll

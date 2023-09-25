@@ -1,0 +1,15 @@
+C:\Users\x\Documents\logcsharp\exxlistAN\bin\Debug\net7.0\exxlistAN.exe
+C:\Users\x\Documents\logcsharp\exxlistAN\bin\Debug\net7.0\exxlistAN.deps.json
+C:\Users\x\Documents\logcsharp\exxlistAN\bin\Debug\net7.0\exxlistAN.runtimeconfig.json
+C:\Users\x\Documents\logcsharp\exxlistAN\bin\Debug\net7.0\exxlistAN.dll
+C:\Users\x\Documents\logcsharp\exxlistAN\bin\Debug\net7.0\exxlistAN.pdb
+C:\Users\x\Documents\logcsharp\exxlistAN\obj\Debug\net7.0\exxlistAN.csproj.AssemblyReference.cache
+C:\Users\x\Documents\logcsharp\exxlistAN\obj\Debug\net7.0\exxlistAN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\x\Documents\logcsharp\exxlistAN\obj\Debug\net7.0\exxlistAN.AssemblyInfoInputs.cache
+C:\Users\x\Documents\logcsharp\exxlistAN\obj\Debug\net7.0\exxlistAN.AssemblyInfo.cs
+C:\Users\x\Documents\logcsharp\exxlistAN\obj\Debug\net7.0\exxlistAN.csproj.CoreCompileInputs.cache
+C:\Users\x\Documents\logcsharp\exxlistAN\obj\Debug\net7.0\exxlistAN.dll
+C:\Users\x\Documents\logcsharp\exxlistAN\obj\Debug\net7.0\refint\exxlistAN.dll
+C:\Users\x\Documents\logcsharp\exxlistAN\obj\Debug\net7.0\exxlistAN.pdb
+C:\Users\x\Documents\logcsharp\exxlistAN\obj\Debug\net7.0\exxlistAN.genruntimeconfig.cache
+C:\Users\x\Documents\logcsharp\exxlistAN\obj\Debug\net7.0\ref\exxlistAN.dll
