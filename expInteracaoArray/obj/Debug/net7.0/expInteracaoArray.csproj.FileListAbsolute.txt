@@ -1,0 +1,15 @@
+C:\Users\x\Documents\logcsharp\expInteracaoArray\obj\Debug\net7.0\expInteracaoArray.csproj.AssemblyReference.cache
+C:\Users\x\Documents\logcsharp\expInteracaoArray\obj\Debug\net7.0\expInteracaoArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\x\Documents\logcsharp\expInteracaoArray\obj\Debug\net7.0\expInteracaoArray.AssemblyInfoInputs.cache
+C:\Users\x\Documents\logcsharp\expInteracaoArray\obj\Debug\net7.0\expInteracaoArray.AssemblyInfo.cs
+C:\Users\x\Documents\logcsharp\expInteracaoArray\obj\Debug\net7.0\expInteracaoArray.csproj.CoreCompileInputs.cache
+C:\Users\x\Documents\logcsharp\expInteracaoArray\bin\Debug\net7.0\expInteracaoArray.exe
+C:\Users\x\Documents\logcsharp\expInteracaoArray\bin\Debug\net7.0\expInteracaoArray.deps.json
+C:\Users\x\Documents\logcsharp\expInteracaoArray\bin\Debug\net7.0\expInteracaoArray.runtimeconfig.json
+C:\Users\x\Documents\logcsharp\expInteracaoArray\bin\Debug\net7.0\expInteracaoArray.dll
+C:\Users\x\Documents\logcsharp\expInteracaoArray\bin\Debug\net7.0\expInteracaoArray.pdb
+C:\Users\x\Documents\logcsharp\expInteracaoArray\obj\Debug\net7.0\expInteracaoArray.dll
+C:\Users\x\Documents\logcsharp\expInteracaoArray\obj\Debug\net7.0\refint\expInteracaoArray.dll
+C:\Users\x\Documents\logcsharp\expInteracaoArray\obj\Debug\net7.0\expInteracaoArray.pdb
+C:\Users\x\Documents\logcsharp\expInteracaoArray\obj\Debug\net7.0\expInteracaoArray.genruntimeconfig.cache
+C:\Users\x\Documents\logcsharp\expInteracaoArray\obj\Debug\net7.0\ref\expInteracaoArray.dll

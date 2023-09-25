@@ -1,0 +1,15 @@
+C:\Users\x\Documents\logcsharp\expArray\bin\Debug\net7.0\expArray.exe
+C:\Users\x\Documents\logcsharp\expArray\bin\Debug\net7.0\expArray.deps.json
+C:\Users\x\Documents\logcsharp\expArray\bin\Debug\net7.0\expArray.runtimeconfig.json
+C:\Users\x\Documents\logcsharp\expArray\bin\Debug\net7.0\expArray.dll
+C:\Users\x\Documents\logcsharp\expArray\bin\Debug\net7.0\expArray.pdb
+C:\Users\x\Documents\logcsharp\expArray\obj\Debug\net7.0\expArray.csproj.AssemblyReference.cache
+C:\Users\x\Documents\logcsharp\expArray\obj\Debug\net7.0\expArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\x\Documents\logcsharp\expArray\obj\Debug\net7.0\expArray.AssemblyInfoInputs.cache
+C:\Users\x\Documents\logcsharp\expArray\obj\Debug\net7.0\expArray.AssemblyInfo.cs
+C:\Users\x\Documents\logcsharp\expArray\obj\Debug\net7.0\expArray.csproj.CoreCompileInputs.cache
+C:\Users\x\Documents\logcsharp\expArray\obj\Debug\net7.0\expArray.dll
+C:\Users\x\Documents\logcsharp\expArray\obj\Debug\net7.0\refint\expArray.dll
+C:\Users\x\Documents\logcsharp\expArray\obj\Debug\net7.0\expArray.pdb
+C:\Users\x\Documents\logcsharp\expArray\obj\Debug\net7.0\expArray.genruntimeconfig.cache
+C:\Users\x\Documents\logcsharp\expArray\obj\Debug\net7.0\ref\expArray.dll

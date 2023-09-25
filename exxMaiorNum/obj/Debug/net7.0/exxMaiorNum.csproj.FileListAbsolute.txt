@@ -1,0 +1,15 @@
+C:\Users\x\Documents\logcsharp\exxMaiorNum\bin\Debug\net7.0\exxMaiorNum.exe
+C:\Users\x\Documents\logcsharp\exxMaiorNum\bin\Debug\net7.0\exxMaiorNum.deps.json
+C:\Users\x\Documents\logcsharp\exxMaiorNum\bin\Debug\net7.0\exxMaiorNum.runtimeconfig.json
+C:\Users\x\Documents\logcsharp\exxMaiorNum\bin\Debug\net7.0\exxMaiorNum.dll
+C:\Users\x\Documents\logcsharp\exxMaiorNum\bin\Debug\net7.0\exxMaiorNum.pdb
+C:\Users\x\Documents\logcsharp\exxMaiorNum\obj\Debug\net7.0\exxMaiorNum.csproj.AssemblyReference.cache
+C:\Users\x\Documents\logcsharp\exxMaiorNum\obj\Debug\net7.0\exxMaiorNum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\x\Documents\logcsharp\exxMaiorNum\obj\Debug\net7.0\exxMaiorNum.AssemblyInfoInputs.cache
+C:\Users\x\Documents\logcsharp\exxMaiorNum\obj\Debug\net7.0\exxMaiorNum.AssemblyInfo.cs
+C:\Users\x\Documents\logcsharp\exxMaiorNum\obj\Debug\net7.0\exxMaiorNum.csproj.CoreCompileInputs.cache
+C:\Users\x\Documents\logcsharp\exxMaiorNum\obj\Debug\net7.0\exxMaiorNum.dll
+C:\Users\x\Documents\logcsharp\exxMaiorNum\obj\Debug\net7.0\refint\exxMaiorNum.dll
+C:\Users\x\Documents\logcsharp\exxMaiorNum\obj\Debug\net7.0\exxMaiorNum.pdb
+C:\Users\x\Documents\logcsharp\exxMaiorNum\obj\Debug\net7.0\exxMaiorNum.genruntimeconfig.cache
+C:\Users\x\Documents\logcsharp\exxMaiorNum\obj\Debug\net7.0\ref\exxMaiorNum.dll
