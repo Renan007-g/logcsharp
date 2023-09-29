@@ -1,0 +1,15 @@
+C:\Users\x\Documents\logcsharp\expARBMatriz\bin\Debug\net7.0\expARBMatriz.exe
+C:\Users\x\Documents\logcsharp\expARBMatriz\bin\Debug\net7.0\expARBMatriz.deps.json
+C:\Users\x\Documents\logcsharp\expARBMatriz\bin\Debug\net7.0\expARBMatriz.runtimeconfig.json
+C:\Users\x\Documents\logcsharp\expARBMatriz\bin\Debug\net7.0\expARBMatriz.dll
+C:\Users\x\Documents\logcsharp\expARBMatriz\bin\Debug\net7.0\expARBMatriz.pdb
+C:\Users\x\Documents\logcsharp\expARBMatriz\obj\Debug\net7.0\expARBMatriz.csproj.AssemblyReference.cache
+C:\Users\x\Documents\logcsharp\expARBMatriz\obj\Debug\net7.0\expARBMatriz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\x\Documents\logcsharp\expARBMatriz\obj\Debug\net7.0\expARBMatriz.AssemblyInfoInputs.cache
+C:\Users\x\Documents\logcsharp\expARBMatriz\obj\Debug\net7.0\expARBMatriz.AssemblyInfo.cs
+C:\Users\x\Documents\logcsharp\expARBMatriz\obj\Debug\net7.0\expARBMatriz.csproj.CoreCompileInputs.cache
+C:\Users\x\Documents\logcsharp\expARBMatriz\obj\Debug\net7.0\expARBMatriz.dll
+C:\Users\x\Documents\logcsharp\expARBMatriz\obj\Debug\net7.0\refint\expARBMatriz.dll
+C:\Users\x\Documents\logcsharp\expARBMatriz\obj\Debug\net7.0\expARBMatriz.pdb
+C:\Users\x\Documents\logcsharp\expARBMatriz\obj\Debug\net7.0\expARBMatriz.genruntimeconfig.cache
+C:\Users\x\Documents\logcsharp\expARBMatriz\obj\Debug\net7.0\ref\expARBMatriz.dll
