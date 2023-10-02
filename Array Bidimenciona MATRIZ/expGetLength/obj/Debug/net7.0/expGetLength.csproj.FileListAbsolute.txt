@@ -1,0 +1,15 @@
+C:\Users\x\Documents\logcsharp\expGetLength\bin\Debug\net7.0\expGetLength.exe
+C:\Users\x\Documents\logcsharp\expGetLength\bin\Debug\net7.0\expGetLength.deps.json
+C:\Users\x\Documents\logcsharp\expGetLength\bin\Debug\net7.0\expGetLength.runtimeconfig.json
+C:\Users\x\Documents\logcsharp\expGetLength\bin\Debug\net7.0\expGetLength.dll
+C:\Users\x\Documents\logcsharp\expGetLength\bin\Debug\net7.0\expGetLength.pdb
+C:\Users\x\Documents\logcsharp\expGetLength\obj\Debug\net7.0\expGetLength.csproj.AssemblyReference.cache
+C:\Users\x\Documents\logcsharp\expGetLength\obj\Debug\net7.0\expGetLength.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\x\Documents\logcsharp\expGetLength\obj\Debug\net7.0\expGetLength.AssemblyInfoInputs.cache
+C:\Users\x\Documents\logcsharp\expGetLength\obj\Debug\net7.0\expGetLength.AssemblyInfo.cs
+C:\Users\x\Documents\logcsharp\expGetLength\obj\Debug\net7.0\expGetLength.csproj.CoreCompileInputs.cache
+C:\Users\x\Documents\logcsharp\expGetLength\obj\Debug\net7.0\expGetLength.dll
+C:\Users\x\Documents\logcsharp\expGetLength\obj\Debug\net7.0\refint\expGetLength.dll
+C:\Users\x\Documents\logcsharp\expGetLength\obj\Debug\net7.0\expGetLength.pdb
+C:\Users\x\Documents\logcsharp\expGetLength\obj\Debug\net7.0\expGetLength.genruntimeconfig.cache
+C:\Users\x\Documents\logcsharp\expGetLength\obj\Debug\net7.0\ref\expGetLength.dll

@@ -1,0 +1,15 @@
+C:\Users\x\Documents\logcsharp\exxMatrizSec\bin\Debug\net7.0\exxMatrizSec.exe
+C:\Users\x\Documents\logcsharp\exxMatrizSec\bin\Debug\net7.0\exxMatrizSec.deps.json
+C:\Users\x\Documents\logcsharp\exxMatrizSec\bin\Debug\net7.0\exxMatrizSec.runtimeconfig.json
+C:\Users\x\Documents\logcsharp\exxMatrizSec\bin\Debug\net7.0\exxMatrizSec.dll
+C:\Users\x\Documents\logcsharp\exxMatrizSec\bin\Debug\net7.0\exxMatrizSec.pdb
+C:\Users\x\Documents\logcsharp\exxMatrizSec\obj\Debug\net7.0\exxMatrizSec.csproj.AssemblyReference.cache
+C:\Users\x\Documents\logcsharp\exxMatrizSec\obj\Debug\net7.0\exxMatrizSec.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\x\Documents\logcsharp\exxMatrizSec\obj\Debug\net7.0\exxMatrizSec.AssemblyInfoInputs.cache
+C:\Users\x\Documents\logcsharp\exxMatrizSec\obj\Debug\net7.0\exxMatrizSec.AssemblyInfo.cs
+C:\Users\x\Documents\logcsharp\exxMatrizSec\obj\Debug\net7.0\exxMatrizSec.csproj.CoreCompileInputs.cache
+C:\Users\x\Documents\logcsharp\exxMatrizSec\obj\Debug\net7.0\exxMatrizSec.dll
+C:\Users\x\Documents\logcsharp\exxMatrizSec\obj\Debug\net7.0\refint\exxMatrizSec.dll
+C:\Users\x\Documents\logcsharp\exxMatrizSec\obj\Debug\net7.0\exxMatrizSec.pdb
+C:\Users\x\Documents\logcsharp\exxMatrizSec\obj\Debug\net7.0\exxMatrizSec.genruntimeconfig.cache
+C:\Users\x\Documents\logcsharp\exxMatrizSec\obj\Debug\net7.0\ref\exxMatrizSec.dll

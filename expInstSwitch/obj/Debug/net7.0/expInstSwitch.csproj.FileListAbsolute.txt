@@ -1,0 +1,15 @@
+C:\Users\x\Documents\logcsharp\expInstSwitch\bin\Debug\net7.0\expInstSwitch.exe
+C:\Users\x\Documents\logcsharp\expInstSwitch\bin\Debug\net7.0\expInstSwitch.deps.json
+C:\Users\x\Documents\logcsharp\expInstSwitch\bin\Debug\net7.0\expInstSwitch.runtimeconfig.json
+C:\Users\x\Documents\logcsharp\expInstSwitch\bin\Debug\net7.0\expInstSwitch.dll
+C:\Users\x\Documents\logcsharp\expInstSwitch\bin\Debug\net7.0\expInstSwitch.pdb
+C:\Users\x\Documents\logcsharp\expInstSwitch\obj\Debug\net7.0\expInstSwitch.csproj.AssemblyReference.cache
+C:\Users\x\Documents\logcsharp\expInstSwitch\obj\Debug\net7.0\expInstSwitch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\x\Documents\logcsharp\expInstSwitch\obj\Debug\net7.0\expInstSwitch.AssemblyInfoInputs.cache
+C:\Users\x\Documents\logcsharp\expInstSwitch\obj\Debug\net7.0\expInstSwitch.AssemblyInfo.cs
+C:\Users\x\Documents\logcsharp\expInstSwitch\obj\Debug\net7.0\expInstSwitch.csproj.CoreCompileInputs.cache
+C:\Users\x\Documents\logcsharp\expInstSwitch\obj\Debug\net7.0\expInstSwitch.dll
+C:\Users\x\Documents\logcsharp\expInstSwitch\obj\Debug\net7.0\refint\expInstSwitch.dll
+C:\Users\x\Documents\logcsharp\expInstSwitch\obj\Debug\net7.0\expInstSwitch.pdb
+C:\Users\x\Documents\logcsharp\expInstSwitch\obj\Debug\net7.0\expInstSwitch.genruntimeconfig.cache
+C:\Users\x\Documents\logcsharp\expInstSwitch\obj\Debug\net7.0\ref\expInstSwitch.dll
