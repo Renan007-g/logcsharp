@@ -1,0 +1,5 @@
+C:\Users\x\Documents\logcsharp\exxCalculadora\obj\Debug\net7.0\exxCalculadora.csproj.AssemblyReference.cache
+C:\Users\x\Documents\logcsharp\exxCalculadora\obj\Debug\net7.0\exxCalculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\x\Documents\logcsharp\exxCalculadora\obj\Debug\net7.0\exxCalculadora.AssemblyInfoInputs.cache
+C:\Users\x\Documents\logcsharp\exxCalculadora\obj\Debug\net7.0\exxCalculadora.AssemblyInfo.cs
+C:\Users\x\Documents\logcsharp\exxCalculadora\obj\Debug\net7.0\exxCalculadora.csproj.CoreCompileInputs.cache

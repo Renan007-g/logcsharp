@@ -1,0 +1,15 @@
+C:\Users\x\Documents\logcsharp\expInstDefault\bin\Debug\net7.0\expInstDefault.exe
+C:\Users\x\Documents\logcsharp\expInstDefault\bin\Debug\net7.0\expInstDefault.deps.json
+C:\Users\x\Documents\logcsharp\expInstDefault\bin\Debug\net7.0\expInstDefault.runtimeconfig.json
+C:\Users\x\Documents\logcsharp\expInstDefault\bin\Debug\net7.0\expInstDefault.dll
+C:\Users\x\Documents\logcsharp\expInstDefault\bin\Debug\net7.0\expInstDefault.pdb
+C:\Users\x\Documents\logcsharp\expInstDefault\obj\Debug\net7.0\expInstDefault.csproj.AssemblyReference.cache
+C:\Users\x\Documents\logcsharp\expInstDefault\obj\Debug\net7.0\expInstDefault.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\x\Documents\logcsharp\expInstDefault\obj\Debug\net7.0\expInstDefault.AssemblyInfoInputs.cache
+C:\Users\x\Documents\logcsharp\expInstDefault\obj\Debug\net7.0\expInstDefault.AssemblyInfo.cs
+C:\Users\x\Documents\logcsharp\expInstDefault\obj\Debug\net7.0\expInstDefault.csproj.CoreCompileInputs.cache
+C:\Users\x\Documents\logcsharp\expInstDefault\obj\Debug\net7.0\expInstDefault.dll
+C:\Users\x\Documents\logcsharp\expInstDefault\obj\Debug\net7.0\refint\expInstDefault.dll
+C:\Users\x\Documents\logcsharp\expInstDefault\obj\Debug\net7.0\expInstDefault.pdb
+C:\Users\x\Documents\logcsharp\expInstDefault\obj\Debug\net7.0\expInstDefault.genruntimeconfig.cache
+C:\Users\x\Documents\logcsharp\expInstDefault\obj\Debug\net7.0\ref\expInstDefault.dll
