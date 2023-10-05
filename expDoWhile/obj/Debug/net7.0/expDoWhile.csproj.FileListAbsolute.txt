@@ -1,0 +1,15 @@
+C:\Users\x\Documents\logcsharp\expDoWhile\bin\Debug\net7.0\expDoWhile.exe
+C:\Users\x\Documents\logcsharp\expDoWhile\bin\Debug\net7.0\expDoWhile.deps.json
+C:\Users\x\Documents\logcsharp\expDoWhile\bin\Debug\net7.0\expDoWhile.runtimeconfig.json
+C:\Users\x\Documents\logcsharp\expDoWhile\bin\Debug\net7.0\expDoWhile.dll
+C:\Users\x\Documents\logcsharp\expDoWhile\bin\Debug\net7.0\expDoWhile.pdb
+C:\Users\x\Documents\logcsharp\expDoWhile\obj\Debug\net7.0\expDoWhile.csproj.AssemblyReference.cache
+C:\Users\x\Documents\logcsharp\expDoWhile\obj\Debug\net7.0\expDoWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\x\Documents\logcsharp\expDoWhile\obj\Debug\net7.0\expDoWhile.AssemblyInfoInputs.cache
+C:\Users\x\Documents\logcsharp\expDoWhile\obj\Debug\net7.0\expDoWhile.AssemblyInfo.cs
+C:\Users\x\Documents\logcsharp\expDoWhile\obj\Debug\net7.0\expDoWhile.csproj.CoreCompileInputs.cache
+C:\Users\x\Documents\logcsharp\expDoWhile\obj\Debug\net7.0\expDoWhile.dll
+C:\Users\x\Documents\logcsharp\expDoWhile\obj\Debug\net7.0\refint\expDoWhile.dll
+C:\Users\x\Documents\logcsharp\expDoWhile\obj\Debug\net7.0\expDoWhile.pdb
+C:\Users\x\Documents\logcsharp\expDoWhile\obj\Debug\net7.0\expDoWhile.genruntimeconfig.cache
+C:\Users\x\Documents\logcsharp\expDoWhile\obj\Debug\net7.0\ref\expDoWhile.dll

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\x\\Documents\\logcsharp\\expInteracaoArray\\expInteracaoArray.csproj": {}
+    "C:\\Users\\x\\Documents\\logcsharp\\Array Vetor\\expInteracaoArray\\expInteracaoArray.csproj": {}
   },
   "projects": {
-    "C:\\Users\\x\\Documents\\logcsharp\\expInteracaoArray\\expInteracaoArray.csproj": {
+    "C:\\Users\\x\\Documents\\logcsharp\\Array Vetor\\expInteracaoArray\\expInteracaoArray.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\x\\Documents\\logcsharp\\expInteracaoArray\\expInteracaoArray.csproj",
+        "projectUniqueName": "C:\\Users\\x\\Documents\\logcsharp\\Array Vetor\\expInteracaoArray\\expInteracaoArray.csproj",
         "projectName": "expInteracaoArray",
-        "projectPath": "C:\\Users\\x\\Documents\\logcsharp\\expInteracaoArray\\expInteracaoArray.csproj",
+        "projectPath": "C:\\Users\\x\\Documents\\logcsharp\\Array Vetor\\expInteracaoArray\\expInteracaoArray.csproj",
         "packagesPath": "C:\\Users\\x\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\x\\Documents\\logcsharp\\expInteracaoArray\\obj\\",
+        "outputPath": "C:\\Users\\x\\Documents\\logcsharp\\Array Vetor\\expInteracaoArray\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\x\\AppData\\Roaming\\NuGet\\NuGet.Config"

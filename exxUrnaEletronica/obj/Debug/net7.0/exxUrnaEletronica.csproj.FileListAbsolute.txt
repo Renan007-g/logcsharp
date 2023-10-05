@@ -1,0 +1,15 @@
+C:\Users\x\Documents\logcsharp\exxUrnaEletronica\bin\Debug\net7.0\exxUrnaEletronica.exe
+C:\Users\x\Documents\logcsharp\exxUrnaEletronica\bin\Debug\net7.0\exxUrnaEletronica.deps.json
+C:\Users\x\Documents\logcsharp\exxUrnaEletronica\bin\Debug\net7.0\exxUrnaEletronica.runtimeconfig.json
+C:\Users\x\Documents\logcsharp\exxUrnaEletronica\bin\Debug\net7.0\exxUrnaEletronica.dll
+C:\Users\x\Documents\logcsharp\exxUrnaEletronica\bin\Debug\net7.0\exxUrnaEletronica.pdb
+C:\Users\x\Documents\logcsharp\exxUrnaEletronica\obj\Debug\net7.0\exxUrnaEletronica.csproj.AssemblyReference.cache
+C:\Users\x\Documents\logcsharp\exxUrnaEletronica\obj\Debug\net7.0\exxUrnaEletronica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\x\Documents\logcsharp\exxUrnaEletronica\obj\Debug\net7.0\exxUrnaEletronica.AssemblyInfoInputs.cache
+C:\Users\x\Documents\logcsharp\exxUrnaEletronica\obj\Debug\net7.0\exxUrnaEletronica.AssemblyInfo.cs
+C:\Users\x\Documents\logcsharp\exxUrnaEletronica\obj\Debug\net7.0\exxUrnaEletronica.csproj.CoreCompileInputs.cache
+C:\Users\x\Documents\logcsharp\exxUrnaEletronica\obj\Debug\net7.0\exxUrnaEletronica.dll
+C:\Users\x\Documents\logcsharp\exxUrnaEletronica\obj\Debug\net7.0\refint\exxUrnaEletronica.dll
+C:\Users\x\Documents\logcsharp\exxUrnaEletronica\obj\Debug\net7.0\exxUrnaEletronica.pdb
+C:\Users\x\Documents\logcsharp\exxUrnaEletronica\obj\Debug\net7.0\exxUrnaEletronica.genruntimeconfig.cache
+C:\Users\x\Documents\logcsharp\exxUrnaEletronica\obj\Debug\net7.0\ref\exxUrnaEletronica.dll

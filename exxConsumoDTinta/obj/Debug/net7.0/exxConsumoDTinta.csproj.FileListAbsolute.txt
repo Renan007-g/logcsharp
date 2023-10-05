@@ -1,0 +1,15 @@
+C:\Users\x\Documents\logcsharp\exxConsumoDTinta\bin\Debug\net7.0\exxConsumoDTinta.exe
+C:\Users\x\Documents\logcsharp\exxConsumoDTinta\bin\Debug\net7.0\exxConsumoDTinta.deps.json
+C:\Users\x\Documents\logcsharp\exxConsumoDTinta\bin\Debug\net7.0\exxConsumoDTinta.runtimeconfig.json
+C:\Users\x\Documents\logcsharp\exxConsumoDTinta\bin\Debug\net7.0\exxConsumoDTinta.dll
+C:\Users\x\Documents\logcsharp\exxConsumoDTinta\bin\Debug\net7.0\exxConsumoDTinta.pdb
+C:\Users\x\Documents\logcsharp\exxConsumoDTinta\obj\Debug\net7.0\exxConsumoDTinta.csproj.AssemblyReference.cache
+C:\Users\x\Documents\logcsharp\exxConsumoDTinta\obj\Debug\net7.0\exxConsumoDTinta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\x\Documents\logcsharp\exxConsumoDTinta\obj\Debug\net7.0\exxConsumoDTinta.AssemblyInfoInputs.cache
+C:\Users\x\Documents\logcsharp\exxConsumoDTinta\obj\Debug\net7.0\exxConsumoDTinta.AssemblyInfo.cs
+C:\Users\x\Documents\logcsharp\exxConsumoDTinta\obj\Debug\net7.0\exxConsumoDTinta.csproj.CoreCompileInputs.cache
+C:\Users\x\Documents\logcsharp\exxConsumoDTinta\obj\Debug\net7.0\exxConsumoDTinta.dll
+C:\Users\x\Documents\logcsharp\exxConsumoDTinta\obj\Debug\net7.0\refint\exxConsumoDTinta.dll
+C:\Users\x\Documents\logcsharp\exxConsumoDTinta\obj\Debug\net7.0\exxConsumoDTinta.pdb
+C:\Users\x\Documents\logcsharp\exxConsumoDTinta\obj\Debug\net7.0\exxConsumoDTinta.genruntimeconfig.cache
+C:\Users\x\Documents\logcsharp\exxConsumoDTinta\obj\Debug\net7.0\ref\exxConsumoDTinta.dll
