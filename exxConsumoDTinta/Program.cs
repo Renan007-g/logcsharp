@@ -1,58 +1,106 @@
-﻿float altParede;
-float largParede;
-double ttParede;
+﻿float alturaParede;
+float larguraParede;
 string continuar;
 
-float altAbert;
-float largAbert;
-double ttAbert = 0;
-string simnao;
+float alturaAbertura;
+float larguraAbertura;
 
-double totalParedes = 0;
-double consuT;
-
+float tamanhototalParede = 0;
+float tamanhototalAbertura = 0;
+float rendimentoPL;
+int nDeMaos;
+float litroPmq;
+float consumoTT;
 
 do{
-System.Console.WriteLine("##### Rendimento da tinta por metro quadrado = 0.037 #####");
-System.Console.WriteLine("##### Rendimento em litro por lata = 0.036 #####\n");
+System.Console.WriteLine("Digite a altura da parede em metros: ");
+alturaParede = Convert.ToSingle(Console.ReadLine());
 
-System.Console.WriteLine("Informe a altura em M da parede:");
-altParede = Convert.ToSingle(Console.ReadLine());
+System.Console.WriteLine("Digite a largura da parede em metros");
+larguraParede = Convert.ToSingle(Console.ReadLine());
 
-System.Console.WriteLine("\nDigite a largura em M da parede: ");
-largParede = Convert.ToSingle(Console.ReadLine());
+tamanhototalParede += alturaParede * larguraParede;
 
-ttParede = altParede * largParede;
-totalParedes += ttParede;
+Console.Clear();
 
+while(true){
+    System.Console.WriteLine("Deseja calcular outra parede? [s]Sim [n]Não");
+    continuar = Console.ReadLine().ToLower();
 
-System.Console.WriteLine("Deseja pintar mais alguma parede? digite [s]Sim [n]Não");
-continuar = Console.ReadLine();
-continuar = continuar.ToLower();
+    if(continuar == "s" || continuar == "n")
+    {
+        break;
+    }
+    else
+    {
+        System.Console.WriteLine("Digite um valor valido");
+    }
+}
 
 }while(continuar == "s");
 
-System.Console.WriteLine("A parede possui aberturas? (janelas, portas e etc?) se digite: [s]Sim [n]Não ");
-simnao = Console.ReadLine();
-simnao = simnao.ToLower();
+Console.Clear();
 
-if(simnao == "s"){
-    System.Console.WriteLine("Qual a altura em M da abertura: ");
-    altAbert = Convert.ToSingle(Console.ReadLine());
+while(true)
+{
+    System.Console.WriteLine("A parede possui aberturas? [s]Sim [n]Não");
+    continuar = Console.ReadLine().ToLower();
 
-    System.Console.WriteLine("Qual a largura em M da abertura: ");
-    largAbert = Convert.ToSingle(Console.ReadLine());
-
-    ttAbert = altAbert * largAbert;
+    if(continuar == "s" || continuar == "n")
+    {
+        break;
+    }
+    else
+    {
+        System.Console.WriteLine("Insira um valor valido");
+    }
 }
 
-totalParedes -= ttAbert;
-consuT = 0.037 * totalParedes;
+while(continuar == "s")
+{
+    System.Console.WriteLine("Insira a altura da abertura em metros: ");
+    alturaAbertura = Convert.ToSingle(Console.ReadLine());
 
-System.Console.WriteLine($"\nO consumo de tinta por demão será: {consuT.ToString("N2")}litros");
-consuT *= 3;
-System.Console.WriteLine($"\nCom o total de 3 demãos sará de {consuT.ToString("N2")} litros");
+    System.Console.WriteLine("Insira a largura da abertura em metros: ");
+    larguraAbertura = Convert.ToSingle(Console.ReadLine());
 
+    tamanhototalAbertura += alturaAbertura * larguraAbertura;
 
+    Console.Clear();
 
+    while(true)
+    {
+        System.Console.WriteLine("Possui mais alguma abertura? [s]Sim [n]Não");
+        continuar = Console.ReadLine();
+
+        if(continuar == "s" || continuar == "n"){
+            break;
+        }
+        else{
+            System.Console.WriteLine("Insira uma opção valida");
+        }
+        Console.Clear();
+    }
+}
+
+System.Console.WriteLine("Insira o redimento por m² por litro (m²/L)");
+rendimentoPL = Convert.ToSingle(Console.ReadLine());
+Console.Clear();
+
+System.Console.WriteLine("Insira o numero de demãos nessesarias: ");
+nDeMaos = Convert.ToInt32(Console.ReadLine());
+
+tamanhototalParede -= tamanhototalAbertura;
+
+litroPmq = 1 / rendimentoPL;
+
+consumoTT = litroPmq * tamanhototalParede;
+consumoTT *= nDeMaos;
+
+if(consumoTT > 1){
+System.Console.WriteLine($"O consumo total de tinta sera {Math.Round(consumoTT, 1)} litros.\n");
+}
+else{
+    System.Console.WriteLine($"O consumo total de tinta sera {Math.Round(consumoTT * 1000, 1)} mililitros.\n");
+}
 

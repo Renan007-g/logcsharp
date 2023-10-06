@@ -1,0 +1,15 @@
+C:\Users\x\Documents\logcsharp\exxConsumodTinta2\obj\Debug\net7.0\exxConsumodTinta2.csproj.AssemblyReference.cache
+C:\Users\x\Documents\logcsharp\exxConsumodTinta2\obj\Debug\net7.0\exxConsumodTinta2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\x\Documents\logcsharp\exxConsumodTinta2\obj\Debug\net7.0\exxConsumodTinta2.AssemblyInfoInputs.cache
+C:\Users\x\Documents\logcsharp\exxConsumodTinta2\obj\Debug\net7.0\exxConsumodTinta2.AssemblyInfo.cs
+C:\Users\x\Documents\logcsharp\exxConsumodTinta2\obj\Debug\net7.0\exxConsumodTinta2.csproj.CoreCompileInputs.cache
+C:\Users\x\Documents\logcsharp\exxConsumodTinta2\bin\Debug\net7.0\exxConsumodTinta2.exe
+C:\Users\x\Documents\logcsharp\exxConsumodTinta2\bin\Debug\net7.0\exxConsumodTinta2.deps.json
+C:\Users\x\Documents\logcsharp\exxConsumodTinta2\bin\Debug\net7.0\exxConsumodTinta2.runtimeconfig.json
+C:\Users\x\Documents\logcsharp\exxConsumodTinta2\bin\Debug\net7.0\exxConsumodTinta2.dll
+C:\Users\x\Documents\logcsharp\exxConsumodTinta2\bin\Debug\net7.0\exxConsumodTinta2.pdb
+C:\Users\x\Documents\logcsharp\exxConsumodTinta2\obj\Debug\net7.0\exxConsumodTinta2.dll
+C:\Users\x\Documents\logcsharp\exxConsumodTinta2\obj\Debug\net7.0\refint\exxConsumodTinta2.dll
+C:\Users\x\Documents\logcsharp\exxConsumodTinta2\obj\Debug\net7.0\exxConsumodTinta2.pdb
+C:\Users\x\Documents\logcsharp\exxConsumodTinta2\obj\Debug\net7.0\exxConsumodTinta2.genruntimeconfig.cache
+C:\Users\x\Documents\logcsharp\exxConsumodTinta2\obj\Debug\net7.0\ref\exxConsumodTinta2.dll
